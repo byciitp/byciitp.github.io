@@ -1,0 +1,37 @@
+
+.with-chevron[aria-expanded='true'] i {
+  display: block;
+  transform: rotate(180deg) !important;
+}
+
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+.container {
+  flex: 1 0 auto;
+  color: #424242;
+  padding: 100px auto;
+  border-radius: 10px;
+}
+
+#footer {
+	padding: 2px;
+	color: #FFFFFF;
+	flex-shrink: 0;
+	background: #263238;
+	bottom: 0;
+}
+
+#slides {
+	text-align: center;
+}
+
+.active-link {
+    color: #2196f3 !important;
+    -webkit-animation: glow 1s ease-in-out infinite alternate;
+    -moz-animation: glow 1s ease-in-out infinite alternate;
+    animation: glow 1s ease-in-out infinite alternate;
+
+}

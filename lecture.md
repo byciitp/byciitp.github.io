@@ -1,0 +1,34 @@
+---
+layout: header
+title: Lectures
+permalink: /lecture/
+---
+
+<div class="container py-5">
+		<div class="py-5">
+			<div class="row">
+				<div class="col-lg-6 mb-5 sm-12">
+					<a data-toggle="collapse" href="#collapseable1" role="button" aria-expanded="true" aria-controls="collapseable1" class="btn btn-primary btn-block py-2 shadow-sm with-chevron">
+					<p class="d-flex align-items-center justify-content-between mb-0 px-3 py-2"><strong class="text-uppercase">Ramayana Lectures</strong><i class="fa fa-angle-down"></i></p>
+					</a>
+
+				<div id="ramayana"></div>
+				</div>
+
+			<div class="col-lg-6 mb-5">
+
+				<button data-toggle="collapse" data-target="#collapseable2" role="button" aria-expanded="true" aria-controls="collapseable2" class="btn btn-success btn-block py-2 shadow-sm with-chevron">
+				<p class="d-flex align-items-center justify-content-between mb-0 px-3 py-2"><strong class="text-uppercase">Vaishnav Songs</strong><i class="fa fa-angle-down"></i></p>
+				</button>
+
+				<div id="vaishnav_songs"></div>
+			</div>
+		</div>
+	</div>
+	</div>
+
+<script type="text/javascript" src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.3.1/js/bootstrap.bundle.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-migrate/3.3.1/jquery-migrate.min.js"></script>
+
+<script type="text/javascript" src="../assets/js/lecture.js"></script>
