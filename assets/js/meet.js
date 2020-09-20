@@ -9,7 +9,14 @@ xhr.onload = function(){
 	var hh = parseFloat(response.datetime.substring(11, 13)); 
 	var mm = parseFloat(response.datetime.substring(14, 16));
 
-		var time = hh + mm/60;
+	var choose = function() {
+		console.log("No Meeting");
+		document.getElementById("redirect").style.visibility = "hidden";
+		
+		document.getElementById("message").innerText = "Please Choose your meeting...";
+	}
+
+	var time = hh + mm/60;
 	console.log(time);
 	if (time >= 5 && time <= 10) {
 		console.log("Morning");
@@ -28,13 +35,12 @@ xhr.onload = function(){
 			console.log("Iskcon Youth Forum");
 			link="https://us02web.zoom.us/j/84013662651?pwd=TW1qL0RpbTh2bXBWa2lZM2M4TVVzdz09";
 		}
+		else
+			choose();
 	}
-	else {
-		console.log("No Meeting");
-		document.getElementById("redirect").style.visibility = "hidden";
-		
-		document.getElementById("message").innerText = "Please Choose your meeting...";
-	}
+	else
+		choose();
+
 
 	window.location.replace(link);
 };
