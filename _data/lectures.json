@@ -170,19 +170,19 @@
   ],
   "vaishnav_songs": [
   	{
-  		"id": "dhule_dhule_gora_chanda.mp3",
+  		"id": "vaishnav_songs/dhule_dhule_gora_chanda.mp3",
   		"name": "Dhule Dhule Gora Chanda" 
   	},
   	{
-  		"id": "gauranga_karuna_koro_dina_hina_jane.mp3",
+  		"id": "vaishnav_songs/gauranga_karuna_koro_dina_hina_jane.mp3",
   		"name": "Gauranga Karuna Karo Dina Hina Jane" 
   	},
   	{
-  		"id": "kabe_Sri_Caitanya_more_koribena_doya.mp3 ",
+  		"id": "vaishnav_songs/kabe_Sri_Caitanya_more_koribena_doya.mp3 ",
   		"name": "Kabe Sri Chaitanya More Koribena Doya" 
   	},
   	{
-  		"id": "nadiya_godrume_nityananda_mahajana.mp3",
+  		"id": "vaishnav_songs/nadiya_godrume_nityananda_mahajana.mp3",
   		"name": "Nadiya Godrume Nityananda Mahajana" 
   	}
   ]

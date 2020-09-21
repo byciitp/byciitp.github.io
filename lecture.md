@@ -17,7 +17,7 @@ permalink: /lecture/
 						<div class="card">
 							<div class="card-body">
 								{% for song in site.data.lectures.ramayana%}
-									<p class="plays" id="ramayana/{{ song.id }}"> {{ song.name }} </p>
+									<p class="plays" id="{{ song.id }}"> {{ song.name }} </p>
 								{% endfor %}
 							</div>
 						</div>
@@ -36,7 +36,7 @@ permalink: /lecture/
 						<div class="card">
 							<div class="card-body">
 								{% for song in site.data.lectures.vaishnav_songs%}
-									<p class="plays" id="vaishnav_songs/{{ song.id }}"> {{ song.name }} </p>
+									<p class="plays" id="{{ song.id }}"> {{ song.name }} </p>
 								{% endfor %}
 							</div>
 						</div>
