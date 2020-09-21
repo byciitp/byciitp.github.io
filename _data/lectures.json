@@ -1,0 +1,189 @@
+{
+  "ramayana": [
+  	{
+  		"id":"ramayana/200327_0743.mp3",
+		"name": "2020-03-27"
+  	},
+	{
+		"id":"ramayana/200326_2034.mp3",
+		"name": "2020-03-26"
+	},
+	{
+		"id":"ramayana/200327_2031.mp3",
+		"name": "2020-03-27"
+	},
+	{
+		"id":"ramayana/200328_0813.mp3",
+		"name": "2020-03-28"
+	},
+	{
+		"id":"ramayana/200328_2031.mp3",
+		"name": "2020-03-28"
+	},
+	{
+		"id":"ramayana/200329_2002.mp3",
+		"name": "2020-03-29"
+	},
+	{
+		"id":"ramayana/200330_0910_e.mp3",
+		"name": "2020-03-30"
+	},
+	{
+		"id":"ramayana/200330_1932_e.mp3",
+		"name": "2020-03-30"
+	},
+	{
+		"id":"ramayana/200331_0837.mp3",
+		"name": "King Dashratha Passes away - 2020-03-31"
+	},
+	{
+		"id":"ramayana/200331_1950_e.mp3",
+		"name": "Return of Bharata to Ayodhya - 2020-03-31"
+	},
+	{
+		"id":"ramayana/200401_1935_e.mp3",
+		"name": "Bharata Met Rama 2020-04-01"
+	},
+	{
+		"id":"ramayana/200402_1008.mp3",
+		"name": "Morning 2020-04-02"
+	},
+	{
+		"id":"ramayana/200402_1939.mp3",
+		"name": "Evening 2020-04-02"
+	},
+	{
+		"id":"ramayana/200403_0843.mp3",
+		"name": "Morning 2020-04-03"
+	},
+	{
+		"id":"ramayana/200403_1943.mp3",
+		"name": "Evening 2020-04-03"
+	},
+	{
+		"id":"ramayana/200404_0837.mp3",
+		"name": "Morning 2020-04-04"
+	},
+	{
+		"id":"ramayana/200404_1934.mp3",
+		"name": "Evening 2020-04-04"
+	},
+	
+	{
+		"id":"ramayana/200405_0828.mp3",
+		"name": "Morning 2020-04-05"
+	},
+	{
+		"id":"ramayana/200405_ev.mp3",
+		"name": "Evening 2020-04-05"
+	},
+	
+	{
+		"id":"ramayana/200406_0736.mp3",
+		"name": "Morning 2020-04-06"
+	},
+	{
+		"id":"ramayana/200406_1936.mp3",
+		"name": "Evening 2020-04-06"
+	},
+
+	{
+		"id":"ramayana/200407_0829.mp3",
+		"name": "Lord Ram liberated Kabandha - Morning 2020-04-07"
+	},
+	{
+		"id":"ramayana/200407_1935.mp3",
+		"name": "Lord Ram met Sugriva and Lord Hanuman - Evening 2020-04-07"
+	},
+
+	{
+		"id":"ramayana/200408_0759.mp3",
+		"name": "Discussion between Lord Ram and Sugriva - Morning 2020-04-08"
+	},
+	{
+		"id":"ramayana/200408_1929.mp3",
+		"name": "Lord Ram killed Bali - Evening 2020-04-08"
+	},
+
+	{
+		"id":"ramayana/200409_1.mp3",
+		"name": "Morning 2020-04-09"
+	},
+	{
+		"id":"ramayana/200409_2.mp3",
+		"name": "Evening 2020-04-09"
+	},
+
+	{
+		"id":"ramayana/200410_1.mp3",
+		"name": "Morning 2020-04-10"
+	},
+	{
+		"id":"ramayana/200410_2.mp3",
+		"name": "Evening 2020-04-10"
+	},
+
+	{
+		"id":"ramayana/200411_1.mp3",
+		"name": "Morning 2020-04-11"
+	},
+	{
+		"id":"ramayana/200411_2.mp3",
+		"name": "Evening 2020-04-11"
+	},
+
+	{
+		"id":"ramayana/200412_2.mp3",
+		"name": "Evening 2020-04-12"
+	},
+
+	{
+		"id":"ramayana/200413_1.mp3",
+		"name": "Morning 2020-04-13"
+	},
+	{
+		"id":"ramayana/200413_2.mp3",
+		"name": "Evening 2020-04-13"
+	},
+
+	{
+		"id":"ramayana/200414_1.mp3",
+		"name": "Morning 2020-04-14"
+	},
+	{
+		"id":"ramayana/200414_2.mp3",
+		"name": "Evening 2020-04-14"
+	},
+
+	{
+		"id":"ramayana/200415_1.mp3",
+		"name": "Morning 2020-04-15"
+	},
+	{
+		"id":"ramayana/200415_2.mp3",
+		"name": "Evening 2020-04-15"
+	},
+	{
+		"id": "ramayana/200416_2.mp3",
+		"name": "Evening 2020-04-16"
+	}
+  ],
+  "vaishnav_songs": [
+  	{
+  		"id": "dhule_dhule_gora_chanda.mp3",
+  		"name": "Dhule Dhule Gora Chanda" 
+  	},
+  	{
+  		"id": "gauranga_karuna_koro_dina_hina_jane.mp3",
+  		"name": "Gauranga Karuna Karo Dina Hina Jane" 
+  	},
+  	{
+  		"id": "kabe_Sri_Caitanya_more_koribena_doya.mp3 ",
+  		"name": "Kabe Sri Chaitanya More Koribena Doya" 
+  	},
+  	{
+  		"id": "nadiya_godrume_nityananda_mahajana.mp3",
+  		"name": "Nadiya Godrume Nityananda Mahajana" 
+  	}
+  ]
+}

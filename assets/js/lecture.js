@@ -5,7 +5,7 @@ var RAMAYANA_LOADED = false;
 
 var setListeners = function() {
 		plays = document.getElementsByClassName("plays");
-
+		console.log("hello");		
 		var player = document.getElementById("audio_player");
 		player.style.display = "block";
 		
@@ -25,12 +25,5 @@ var setListeners = function() {
 		};
 	};
 
-function loadFiles() {
-	$("#header").load("../templates/header.html", function() {
-		$("#ramayana").load("../templates/ramayana.html", function() {
-			$("#vaishnav_songs").load("../templates/vaishnav_songs.html", setListeners);
-		});
-	});
-};
 
-loadFiles();
+setListeners();

@@ -8,12 +8,22 @@ permalink: /lecture/
 		<div class="py-5">
 			<div class="row">
 				<div class="col-lg-6 mb-5 sm-12">
-					<a data-toggle="collapse" href="#collapseable1" role="button" aria-expanded="true" aria-controls="collapseable1" class="btn btn-primary btn-block py-2 shadow-sm with-chevron">
+					<a data-toggle="collapse" href="#collapseable1" role="button" aria-expanded="true" aria-controls="collapseable1" class="btn btn-primary btn-block py-2 shadow-sm">
 					<p class="d-flex align-items-center justify-content-between mb-0 px-3 py-2"><strong class="text-uppercase">Ramayana Lectures</strong><i class="fa fa-angle-down"></i></p>
 					</a>
 
-				<div id="ramayana"></div>
-				</div>
+				<div id="ramayana">
+					<div id="collapseable1" class="collapse shadow-sm hide">
+						<div class="card">
+							<div class="card-body">
+								{% for song in site.data.lectures.ramayana%}
+									<p class="plays" id="ramayana/{{ song.id }}"> {{ song.name }} </p>
+								{% endfor %}
+							</div>
+						</div>
+					</div>
+				</div>	
+			</div>
 
 			<div class="col-lg-6 mb-5">
 
@@ -21,7 +31,17 @@ permalink: /lecture/
 				<p class="d-flex align-items-center justify-content-between mb-0 px-3 py-2"><strong class="text-uppercase">Vaishnav Songs</strong><i class="fa fa-angle-down"></i></p>
 				</button>
 
-				<div id="vaishnav_songs"></div>
+				<div id="vaishnav_songs">
+				<div id="collapseable2" class="collapse shadow-sm hide">
+						<div class="card">
+							<div class="card-body">
+								{% for song in site.data.lectures.vaishnav_songs%}
+									<p class="plays" id="vaishnav_songs/{{ song.id }}"> {{ song.name }} </p>
+								{% endfor %}
+							</div>
+						</div>
+					</div>
+				</div>
 			</div>
 		</div>
 	</div>
