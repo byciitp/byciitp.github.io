@@ -1,6 +1,7 @@
 ---
 layout: header
 title: Bhaktivedanta Club IIT Patna
+location: home
 ---
 
 <div id="carouselExampleControls" class="carousel slide" data-ride="carousel" data-interval="3000">
