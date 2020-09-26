@@ -6,15 +6,15 @@ title: Bhaktivedanta Club IIT Patna
 <div id="carouselExampleControls" class="carousel slide" data-ride="carousel" data-interval="3000">
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img class="d-block w-20 mx-auto" src="https://i.imgur.com/ktr72r7.jpg" alt="First slide">
+      <img class="d-block w-20 mx-auto" style="height: 52vh !important;" src="https://i.imgur.com/ktr72r7.jpg" alt="First slide">
       <div class="carousel-caption d-none d-md-block">
       <h5>...</h5>
       <p>...</p>
     </div>
     </div>
     {% for image in site.data.images %}
-    <div class="carousel-item">
-      <img class="d-block w-20 mx-auto" src="{{ image.link }}" alt="First slide">
+    <div class="carousel-item" >
+      <img class="d-block w-20 mx-auto" style="height: 52vh !important;" src="{{ image.link }}" alt="First slide">
       <div class="carousel-caption d-none d-md-block">
 	    <h5>...</h5>
 	    <p>...</p>

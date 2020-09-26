@@ -9,7 +9,7 @@ permalink: /register/
   <div class="col-lg-1 col-sm-12 col-xs-12"></div>
   <div class="col-lg-4 col-sm-12 col-xs-12">
     <div class="card" style="">
-      <img class="card-img-top" src="https://i.imgur.com/mWOMYY8.jpg" alt="Sravanam Image">
+      <img class="card-img-top" src="https://i.imgur.com/uTgglDL.jpg" alt="Sravanam Image">
       <div class="card-body">
         <h5 class="card-title text-warning h2" style="font-family: 'Pacifico', cursive;">Sravanam</h5>
         <p class="card-text" style="color: #263238; font-family: 'Dancing Script', cursive; font-size: 1.5rem;">Do you love to listen stories, real and rare stories which were the source of inspiration for many great personalities since time immemorial. Bhaktivedanta club IIT Patna has brought a unique weekly story telling event "Sravanam -- rejuvenate the mind with enlivened stories"  for you. We have picked the incredible stories from many rare writings and scriptures. These stories are not only inspiring to mind but also soothing to heart. Every week we'll have a new story filled with new mellow, so don't miss the chance.</p>
