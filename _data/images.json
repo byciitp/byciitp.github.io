@@ -1,17 +1,24 @@
-[
-	{
-		"link": "https://i.imgur.com/uTgglDL.jpg"
-	},
-	{
-		"link": "https://img.youtube.com/vi/lwJwPk7Tw-E/hqdefault.jpg"
-	},
-	{
-		"link": "https://img.youtube.com/vi/lwJwPk7Tw-E/hqdefault.jpg"
-	},
-	{
-		"link": "https://img.youtube.com/vi/lwJwPk7Tw-E/hqdefault.jpg"
-	},
-	{
-		"link": "https://img.youtube.com/vi/lwJwPk7Tw-E/hqdefault.jpg"
-	}
-]
+{
+	"home": [
+		{
+			"link": "https://i.imgur.com/uTgglDL.jpg"
+		},
+		{
+			"link": "https://img.youtube.com/vi/lwJwPk7Tw-E/hqdefault.jpg"
+		},
+		{
+			"link": "https://img.youtube.com/vi/lwJwPk7Tw-E/hqdefault.jpg"
+		},
+		{
+			"link": "https://img.youtube.com/vi/lwJwPk7Tw-E/hqdefault.jpg"
+		},
+		{
+			"link": "https://img.youtube.com/vi/lwJwPk7Tw-E/hqdefault.jpg"
+		}
+	],
+	"sravanam": [
+		{
+			"link": "https://i.imgur.com/uTgglDL.jpg"
+		}
+	]
+}
