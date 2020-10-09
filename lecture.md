@@ -44,6 +44,26 @@ permalink: /lecture/
 				</div>
 			</div>
 		</div>
+
+		<div class="row">
+				<div class="col-lg-6 mb-5 sm-12">
+					<a data-toggle="collapse" href="#collapseable3" role="button" aria-expanded="true" aria-controls="collapseable1" class="btn btn-warning btn-block py-2 shadow-sm">
+					<p class="d-flex align-items-center justify-content-between mb-0 px-3 py-2"><strong class="text-uppercase">Kirtan</strong><i class="fa fa-angle-down"></i></p>
+					</a>
+
+				<div id="kirtan">
+					<div id="collapseable3" class="collapse shadow-sm hide">
+						<div class="card">
+							<div class="card-body">
+								{% for song in site.data.lectures.kirtan%}
+									<p class="plays" id="{{ song.id }}"> {{ song.name }} </p>
+								{% endfor %}
+							</div>
+						</div>
+					</div>
+				</div>	
+			</div>
+		</div>
 	</div>
 	</div>
 

@@ -184,6 +184,28 @@
   	{
   		"id": "vaishnav_songs/nadiya_godrume_nityananda_mahajana.mp3",
   		"name": "Nadiya Godrume Nityananda Mahajana" 
+  	},
+  	{
+  		"id": "vaishnav_songs/Sri_Krishna_Chaitanya_pr.mp3 ",
+  		"name": "Sri Krishna Chaitanya Pr" 
+  	},
+  	{
+  		"id": "vaishnav_songs/udilo_arun_purab_bhage.mp3 ",
+  		"name": "Udilo Arun Purab Bhage" 
+  	}
+  ],
+  "kirtan": [
+  	{
+  		"id": "kirtan/kirtan.mp3",
+  		"name": "Kirtan 1" 
+  	},
+  	{
+  		"id": "kirtan/kirtan2.mp3",
+  		"name": "Kirtan 2" 
+  	},
+  	{
+  		"id": "kirtan/kirtan3.mp3",
+  		"name": "Kirtan 3" 
   	}
   ]
 }
