@@ -5,7 +5,7 @@ permalink: /slides/
 ---
 
 <div class="tab">
-  <button class="tablinks" onclick="openTab(event, 'session1')">Session 1</button>
+  <button id="defaultOpen" class="tablinks" onclick="openTab(event, 'session1')">Session 1</button>
   <button class="tablinks" onclick="openTab(event, 'session2')">Session 2</button>
   <button class="tablinks" onclick="openTab(event, 'session3')">Session 3</button>
   <button class="tablinks" onclick="openTab(event, 'session3')">Session 4</button>
