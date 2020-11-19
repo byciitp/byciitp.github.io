@@ -47,7 +47,7 @@ permalink: /meet/
        <div class="card" style="width: 18rem;">
          <img class="card-img-top" src="https://i.imgur.com/TReQ58H.png" alt="Card image cap">
          <div class="card-body">
-           <h5 class="card-title">Iskcon Youth Foundation</h5>
+           <h5 class="card-title">Iskcon Youth Forum</h5>
          </div>
        </div>
     </a>
