@@ -1,0 +1,27 @@
+---
+layout: header
+title: Books
+permalink: /books/
+---
+
+{% for book in site.data.books.multi-volume %}
+	<div class="btn-group dropright">
+	  <button type="button" class="btn btn-secondary dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+	    {{ book.name }}
+	  </button>
+	  <div class="dropdown-menu">
+	    {% for volume in book.volumes %} 
+		    <a class="dropdown-item" href="{{ volume.link }}" target="_blank"> {{ volume.name }}</a>
+		{% endfor %}
+	   </div>
+	</div>
+{% endfor %}
+
+{% for book in site.data.books.single-volume %}
+    <a class="dropdown-item" href="{{ book.link }}" target="_blank"> {{ book.name }}</a>
+{% endfor %}
+
+
+<script type="text/javascript" src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.3.1/js/bootstrap.bundle.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-migrate/3.3.1/jquery-migrate.min.js"></script>

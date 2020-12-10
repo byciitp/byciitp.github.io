@@ -1,7 +1,7 @@
 ---
 layout: header
 title: Lectures
-permalink: /lecture/
+permalink: /audio/
 ---
 
 <div class="container py-5">
