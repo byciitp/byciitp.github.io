@@ -7,61 +7,39 @@ permalink: /audio/
 <div class="container py-5">
 		<div class="py-5">
 			<div class="row">
-				<div class="col-lg-6 mb-5 sm-12">
-					<a data-toggle="collapse" href="#collapseable1" role="button" aria-expanded="true" aria-controls="collapseable1" class="btn btn-primary btn-block py-2 shadow-sm">
-					<p class="d-flex align-items-center justify-content-between mb-0 px-3 py-2"><strong class="text-uppercase">Ramayana Lectures</strong><i class="fa fa-angle-down"></i></p>
-					</a>
-
-				<div id="ramayana">
-					<div id="collapseable1" class="collapse shadow-sm hide">
-						<div class="card">
-							<div class="card-body">
-								{% for song in site.data.lectures.ramayana%}
-									<p class="plays" id="{{ song.id }}"> {{ song.name }} </p>
-								{% endfor %}
-							</div>
-						</div>
-					</div>
-				</div>	
-			</div>
-
-			<div class="col-lg-6 mb-5">
-
-				<button data-toggle="collapse" data-target="#collapseable2" role="button" aria-expanded="true" aria-controls="collapseable2" class="btn btn-success btn-block py-2 shadow-sm with-chevron">
-				<p class="d-flex align-items-center justify-content-between mb-0 px-3 py-2"><strong class="text-uppercase">Vaishnav Songs</strong><i class="fa fa-angle-down"></i></p>
-				</button>
-
-				<div id="vaishnav_songs">
-				<div id="collapseable2" class="collapse shadow-sm hide">
-						<div class="card">
-							<div class="card-body">
-								{% for song in site.data.lectures.vaishnav_songs%}
-									<p class="plays" id="{{ song.id }}"> {{ song.name }} </p>
-								{% endfor %}
-							</div>
-						</div>
-					</div>
+				<div class="btn-group col-lg-6 md-5">
+				  <button type="button" class="btn btn-warning dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+				    Ramayana Lectures
+				  </button>
+				  <div class="dropdown-menu" style="overflow-y:auto; max-height:80vh"	>
+					{% for song in site.data.lectures.ramayana%}
+						<p class="plays dropdown-item" id="{{ song.id }}"> {{ song.name }} </p>
+					{% endfor %}
+				  </div>
 				</div>
-			</div>
+
+				<div class="btn-group col-lg-6 md-5">
+				  <button type="button" class="btn btn-success dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+				    Vaishnav Songs
+				  </button>
+				  <div class="dropdown-menu" style="overflow-y:auto; max-height:80vh"	>
+					{% for song in site.data.lectures.vaishnav_songs%}
+						<p class="plays dropdown-item" id="{{ song.id }}"> {{ song.name }} </p>
+					{% endfor %}
+				  </div>
+				</div>
 		</div>
-
+		<br>
 		<div class="row">
-				<div class="col-lg-6 mb-5 sm-12">
-					<a data-toggle="collapse" href="#collapseable3" role="button" aria-expanded="true" aria-controls="collapseable1" class="btn btn-warning btn-block py-2 shadow-sm">
-					<p class="d-flex align-items-center justify-content-between mb-0 px-3 py-2"><strong class="text-uppercase">Kirtan</strong><i class="fa fa-angle-down"></i></p>
-					</a>
-
-				<div id="kirtan">
-					<div id="collapseable3" class="collapse shadow-sm hide">
-						<div class="card">
-							<div class="card-body">
-								{% for song in site.data.lectures.kirtan%}
-									<p class="plays" id="{{ song.id }}"> {{ song.name }} </p>
-								{% endfor %}
-							</div>
-						</div>
-					</div>
-				</div>	
+			<div class="btn-group col-lg-6 md-5">
+			  <button type="button" class="btn btn-info dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+			    Kirtan
+			  </button>
+			  <div class="dropdown-menu" style="overflow-y:auto; max-height:80vh"	>
+				{% for song in site.data.lectures.kirtan%}
+					<p class="plays dropdown-item" id="{{ song.id }}"> {{ song.name }} </p>
+				{% endfor %}
+			  </div>
 			</div>
 		</div>
 	</div>
