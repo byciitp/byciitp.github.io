@@ -8,7 +8,7 @@ permalink: /audio/
 		<div class="py-5">
 			<div class="row">
 				<div class="btn-group col-lg-6 md-5">
-				  <button type="button" class="btn btn-warning dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+				  <button type="button" class="m-3 btn btn-warning dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
 				    Ramayana Lectures
 				  </button>
 				  <div class="dropdown-menu" style="overflow-y:auto; max-height:80vh"	>
@@ -19,7 +19,7 @@ permalink: /audio/
 				</div>
 
 				<div class="btn-group col-lg-6 md-5">
-				  <button type="button" class="btn btn-success dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+				  <button type="button" class="m-3 btn btn-success dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
 				    Vaishnav Songs
 				  </button>
 				  <div class="dropdown-menu" style="overflow-y:auto; max-height:80vh"	>
@@ -32,7 +32,7 @@ permalink: /audio/
 		<br>
 		<div class="row">
 			<div class="btn-group col-lg-6 md-5">
-			  <button type="button" class="btn btn-info dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+			  <button type="button" class="m-3 btn btn-info dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
 			    Kirtan
 			  </button>
 			  <div class="dropdown-menu" style="overflow-y:auto; max-height:80vh"	>
