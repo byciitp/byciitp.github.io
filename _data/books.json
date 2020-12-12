@@ -1699,13 +1699,63 @@
           "link": "http://prabhupadabooks.com/pdf/KRSNA_Book_Vol.2_1970_ISKCON_Press_edition_SCAN.pdf"
         }
       ]
+    },
+    {
+      "name": "HH Gaur Govind Swami Maharaja",
+      "volumes": [
+        {
+          "name": "In The Association of Pure Devotees",
+          "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/HH Gaur Govind Swami Maharaja/Gour_Govinda_Swami_-_In_The_Association_of_Pure_Devotees.pdf"
+        },
+        {
+          "name": "Radha Prema Makes Krishna Mad",
+          "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/HH Gaur Govind Swami Maharaja/Gour_Govinda_Swami_-_Radha_Prema_Makes_Krishna_Mad.pdf"
+        },
+        {
+          "name": "Radhastami",
+          "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/HH Gaur Govind Swami Maharaja/Gour_Govinda_Swami_-_Radhastami.pdf"
+        },
+        {
+          "name": "Sri Krishna Janmastami",
+          "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/HH Gaur Govind Swami Maharaja/Gour_Govinda_Swami_-_Sri_Krishna_Janmastami.pdf"
+        },
+        {
+          "name": "Sri Rama Navami",
+          "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/HH Gaur Govind Swami Maharaja/Gour_Govinda_Swami_-_Sri_Rama_Navami.pdf"
+        },
+        {
+          "name": "Suddha-Nama Bhajan-Chanting the Pure Name",
+          "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/HH Gaur Govind Swami Maharaja/Gour_Govinda_Swami_-_Suddha-Nama_Bhajan-Chanting_the_Pure_Name.pdf"
+        },
+        {
+          "name": "Who Was He-A Brief History of His Glorious Life - 2012",
+          "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/HH Gaur Govind Swami Maharaja/Gour_Govinda_Swami_-_Who_Was_He-A_Brief_History_of_His_Glorious_Life_-_2012.pdf"
+        }
+      ]
+    },
+    {
+      "name": "HH Gopal Krishna Goswami Maharaja",
+      "volumes": [
+        {
+          "name": "Divine Instructions Text",
+          "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/HH Gopal Krishna Goswami Maharaja/GKG_-_Divine_Instructions_Text.pdf"
+        },
+        {
+          "name": "Krishna The Source of Happiness",
+          "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/HH Gopal Krishna Goswami Maharaja/GKG_-_Krishna_The_Source_of_Happiness.pdf"
+        },
+        {
+          "name": "E-Awakening The Soul",
+          "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/HH Gopal Krishna Goswami Maharaja/GKG_-_E-Awakening_The_Soul.pdf"
+        },
+        {
+          "name": "Purpose of Life",
+          "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/HH Gopal Krishna Goswami Maharaja/GKG_-_Purpose_of_Life.pdf"
+        }
+      ]
     }
   ],
   "1tier": [
-    {
-      "name": "Vaishnava Etiquette",
-      "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/Vaishnava_Etiquette_Manual.pdf"
-    },
     {
       "name": "Bhagavad-Gita As It Is Original 1972",
       "link": "http://prabhupadabooks.com/pdf/Bhagavad_gita-As_It_Is-Original_authorized_Macmillan_edition.pdf"
@@ -1817,6 +1867,10 @@
     {
       "name": "Transcendental Broadcast a Television Interview-1972",
       "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/Transcendental_Broadcast_a_Television_Interview-1972.pdf"
+    },
+    {
+      "name": "Vaishnava Etiquette",
+      "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/Vaishnava_Etiquette_Manual.pdf"
     },
     {
       "name": "TWO ESSAYS-Krishna the Reservoir of Pleasure-&-Who is Crazy",
