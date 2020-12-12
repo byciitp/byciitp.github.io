@@ -4,12 +4,34 @@ title: Books
 permalink: /books/
 ---
 
-{% for book in site.data.books.multi-volume %}
-	<div class="btn-group dropright">
+{% for book in site.data.books.3tier %}
+	<div class="btn-group dropdown">
 	  <button type="button" class="btn btn-secondary dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
 	    {{ book.name }}
 	  </button>
 	  <div class="dropdown-menu">
+		    {% for canto in book.volumes %} 
+				<div class="dropdown-submenu">
+					   <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+			          {{ canto.name }}
+			        </a>
+					  <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink" style="overflow-y:auto; max-height:80vh">
+					    {% for volume in canto.volumes %} 
+						    <a class="dropdown-item" href="{{ volume.link }}" target="_blank"> {{ volume.name }}</a>
+						{% endfor %}
+					   </div>
+			   </div>
+			{% endfor %}
+	   </div>
+	</div>
+{% endfor %}
+
+{% for book in site.data.books.2tier %}
+	<div class="btn-group dropdown">
+	  <button type="button" class="btn btn-secondary dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+	    {{ book.name }}
+	  </button>
+	  <div class="dropdown-menu" style="overflow-y:auto; max-height:80vh">
 	    {% for volume in book.volumes %} 
 		    <a class="dropdown-item" href="{{ volume.link }}" target="_blank"> {{ volume.name }}</a>
 		{% endfor %}
@@ -17,7 +39,7 @@ permalink: /books/
 	</div>
 {% endfor %}
 
-{% for book in site.data.books.single-volume %}
+{% for book in site.data.books.1tier %}
     <a class="dropdown-item" href="{{ book.link }}" target="_blank"> {{ book.name }}</a>
 {% endfor %}
 
@@ -25,3 +47,4 @@ permalink: /books/
 <script type="text/javascript" src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.3.1/js/bootstrap.bundle.min.js"></script>
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-migrate/3.3.1/jquery-migrate.min.js"></script>
+<script type="text/javascript" src="../assets/js/books.js"></script>

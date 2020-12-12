@@ -1,127 +1,177 @@
 {
-  "multi-volume": [
+  "3tier": [
     {
       "name": "Srimad Bhagavatam",
       "volumes": [
         {
-          "name": "Srimad Bhagavatam Canto 1 Volume 1",
-          "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb/sb1.1.pdf"
+          "name": "Canto 1",
+          "volumes": [
+            {
+              "name": "Volume 1",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb/sb1.1.pdf"
+            },
+            {
+              "name": "Volume 2",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb/sb1.2.pdf"
+            },
+            {
+              "name": "Volume 3",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb/sb1.3.pdf"
+            }
+          ]
         },
         {
-          "name": "Srimad Bhagavatam Canto 1 Volume 2",
-          "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb/sb1.2.pdf"
+          "name": "Canto 2",
+          "volumes": [
+            {
+              "name": "Volume 1",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb/sb2.1.pdf"
+            },
+            {
+              "name": "Volume 2",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb/sb2.2.pdf"
+            }
+          ]
         },
         {
-          "name": "Srimad Bhagavatam Canto 1 Volume 3",
-          "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb/sb1.3.pdf"
+          "name": "Canto 3",
+          "volumes": [
+            {
+              "name": "Volume 1",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb/sb3.1.pdf"
+            },
+            {
+              "name": "Volume 2",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb/sb3.2.pdf"
+            },
+            {
+              "name": "Volume 3",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb/sb3.3.pdf"
+            },
+            {
+              "name": "Volume 4",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb/sb3.4.pdf"
+            }
+          ]
         },
         {
-          "name": "Srimad Bhagavatam Canto 2 Volume 1",
-          "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb/sb2.1.pdf"
+          "name": "Canto 4",
+          "volumes": [
+            {
+              "name": "Volume 1",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb/sb4.1.pdf"
+            },
+            {
+              "name": "Volume 2",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb/sb4.2.pdf"
+            },
+            {
+              "name": "Volume 3",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb/sb4.3.pdf"
+            },
+            {
+              "name": "Volume 4",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb/sb4.4.pdf"
+            }
+          ]
         },
         {
-          "name": "Srimad Bhagavatam Canto 2 Volume 2",
-          "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb/sb2.2.pdf"
+          "name": "Canto 5",
+          "volumes": [
+            {
+              "name": "Volume 1",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb/sb5.1.pdf"
+            },
+            {
+              "name": "Volume 2",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb/sb5.2.pdf"
+            }
+          ]
         },
         {
-          "name": "Srimad Bhagavatam Canto 3 Volume 1",
-          "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb/sb3.1.pdf"
+          "name": "Canto 6",
+          "volumes": [
+            {
+              "name": "Volume 1",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb/sb6.1.pdf"
+            },
+            {
+              "name": "Volume 2",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb/sb6.2.pdf"
+            },
+            {
+              "name": "Volume 3",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb/sb6.3.pdf"
+            }
+          ]
         },
         {
-          "name": "Srimad Bhagavatam Canto 3 Volume 2",
-          "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb/sb3.2.pdf"
+          "name": "Canto 7",
+          "volumes": [
+            {
+              "name": "Volume 1",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb/sb7.1.pdf"
+            },
+            {
+              "name": "Volume 2",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb/sb7.2.pdf"
+            },
+            {
+              "name": "Volume 3",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb/sb7.3.pdf"
+            }
+          ]
         },
         {
-          "name": "Srimad Bhagavatam Canto 3 Volume 3",
-          "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb/sb3.3.pdf"
+          "name": "Canto 8",
+          "volumes": [
+            {
+              "name": "Volume 1",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb/sb8.1.pdf"
+            },
+            {
+              "name": "Volume 2",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb/sb8.2.pdf"
+            },
+            {
+              "name": "Volume 3",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb/sb8.3.pdf"
+            }
+          ]
         },
         {
-          "name": "Srimad Bhagavatam Canto 3 Volume 4",
-          "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb/sb3.4.pdf"
+          "name": "Canto 9",
+          "volumes": [
+            {
+              "name": "Volume 1",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb/sb9.1.pdf"
+            },
+            {
+              "name": "Volume 2",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb/sb9.2.pdf"
+            },
+            {
+              "name": "Volume 3",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb/sb9.3.pdf"
+            }
+          ]
         },
         {
-          "name": "Srimad Bhagavatam Canto 4 Volume 1",
-          "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb/sb4.1.pdf"
-        },
-        {
-          "name": "Srimad Bhagavatam Canto 4 Volume 2",
-          "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb/sb4.2.pdf"
-        },
-        {
-          "name": "Srimad Bhagavatam Canto 4 Volume 3",
-          "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb/sb4.3.pdf"
-        },
-        {
-          "name": "Srimad Bhagavatam Canto 4 Volume 4",
-          "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb/sb4.4.pdf"
-        },
-        {
-          "name": "Srimad Bhagavatam Canto 5 Volume 1",
-          "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb/sb5.1.pdf"
-        },
-        {
-          "name": "Srimad Bhagavatam Canto 5 Volume 2",
-          "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb/sb5.2.pdf"
-        },
-        {
-          "name": "Srimad Bhagavatam Canto 6 Volume 1",
-          "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb/sb6.1.pdf"
-        },
-        {
-          "name": "Srimad Bhagavatam Canto 6 Volume 2",
-          "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb/sb6.2.pdf"
-        },
-        {
-          "name": "Srimad Bhagavatam Canto 6 Volume 3",
-          "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb/sb6.3.pdf"
-        },
-        {
-          "name": "Srimad Bhagavatam Canto 7 Volume 1",
-          "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb/sb7.1.pdf"
-        },
-        {
-          "name": "Srimad Bhagavatam Canto 7 Volume 2",
-          "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb/sb7.2.pdf"
-        },
-        {
-          "name": "Srimad Bhagavatam Canto 7 Volume 3",
-          "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb/sb7.3.pdf"
-        },
-        {
-          "name": "Srimad Bhagavatam Canto 8 Volume 1",
-          "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb/sb8.1.pdf"
-        },
-        {
-          "name": "Srimad Bhagavatam Canto 8 Volume 2",
-          "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb/sb8.2.pdf"
-        },
-        {
-          "name": "Srimad Bhagavatam Canto 8 Volume 3",
-          "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb/sb8.3.pdf"
-        },
-        {
-          "name": "Srimad Bhagavatam Canto 9 Volume 1",
-          "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb/sb9.1.pdf"
-        },
-        {
-          "name": "Srimad Bhagavatam Canto 9 Volume 2",
-          "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb/sb9.2.pdf"
-        },
-        {
-          "name": "Srimad Bhagavatam Canto 9 Volume 3",
-          "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb/sb9.3.pdf"
-        },
-        {
-          "name": "Srimad Bhagavatam Canto 10 Volume 1",
-          "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb/sb10.1.pdf"
-        },
-        {
-          "name": "Srimad Bhagavatam Canto 10 Volume 2",
-          "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb/sb10.2.pdf"
-        },
-        {
-          "name": "Srimad Bhagavatam Canto 10 Volume 3",
-          "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb/sb10.3.pdf"
+          "name": "Canto 10",
+          "volumes": [
+            {
+              "name": "Volume 1",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb/sb10.1.pdf"
+            },
+            {
+              "name": "Volume 2",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb/sb10.2.pdf"
+            },
+            {
+              "name": "Volume 3",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb/sb10.3.pdf"
+            }
+          ]
         }
       ]
     },
@@ -129,88 +179,1510 @@
       "name": "Chaitanya Charitamrta",
       "volumes": [
         {
-          "name": "Adi Lila 1",
-          "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/cc/adi1.pdf"
+          "name": "Adi Lila",
+          "volumes": [
+            {
+              "name": "Volume 1",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/cc/adi1.pdf"
+            },
+            {
+              "name": "Volume 2",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/cc/adi2.pdf"
+            },
+            {
+              "name": "Volume 3",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/cc/adi3.pdf"
+            }
+          ]
         },
         {
-          "name": "Adi Lila 2",
-          "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/cc/adi2.pdf"
+          "name": "Madhya Lila",
+          "volumes": [
+            {
+              "name": "Volume 1",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/cc/mad1.pdf"
+            },
+            {
+              "name": "Volume 2",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/cc/mad2.pdf"
+            },
+            {
+              "name": "Volume 3",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/cc/mad3.pdf"
+            },
+            {
+              "name": "Volume 4",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/cc/mad4.pdf"
+            },
+            {
+              "name": "Volume 5",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/cc/mad5.pdf"
+            },
+            {
+              "name": "Volume 6",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/cc/mad6.pdf"
+            },
+            {
+              "name": "Volume 7",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/cc/mad7.pdf"
+            },
+            {
+              "name": "Volume 8",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/cc/mad8.pdf"
+            },
+            {
+              "name": "Volume 9",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/cc/mad9.pdf"
+            }
+          ]
         },
         {
-          "name": "Adi Lila 3",
-          "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/cc/adi3.pdf"
-        },
-        {
-          "name": "Madhya Lila 1",
-          "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/cc/mad1.pdf"
-        },
-        {
-          "name": "Madhya Lila 2",
-          "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/cc/mad2.pdf"
-        },
-        {
-          "name": "Madhya Lila 3",
-          "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/cc/mad3.pdf"
-        },
-        {
-          "name": "Madhya Lila 4",
-          "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/cc/mad4.pdf"
-        },
-        {
-          "name": "Madhya Lila 5",
-          "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/cc/mad5.pdf"
-        },
-        {
-          "name": "Madhya Lila 6",
-          "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/cc/mad6.pdf"
-        },
-        {
-          "name": "Madhya Lila 7",
-          "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/cc/mad7.pdf"
-        },
-        {
-          "name": "Madhya Lila 8",
-          "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/cc/mad8.pdf"
-        },
-        {
-          "name": "Madhya Lila 9",
-          "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/cc/mad9.pdf"
-        },
-        {
-          "name": "Antya Lila 1",
-          "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/cc/ant1.pdf"
-        },
-        {
-          "name": "Antya Lila 2",
-          "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/cc/ant2.pdf"
-        },
-        {
-          "name": "Antya Lila 3",
-          "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/cc/ant3.pdf"
-        },
-        {
-          "name": "Antya Lila 4",
-          "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/cc/ant4.pdf"
-        },
-        {
-          "name": "Antya Lila 5",
-          "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/cc/ant5.pdf"
+          "name": "Antya Lila",
+          "volumes": [
+            {
+              "name": "Volume 1",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/cc/ant1.pdf"
+            },
+            {
+              "name": "Volume 2",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/cc/ant2.pdf"
+            },
+            {
+              "name": "Volume 3",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/cc/ant3.pdf"
+            },
+            {
+              "name": "Volume 4",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/cc/ant4.pdf"
+            },
+            {
+              "name": "Volume 5",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/cc/ant5.pdf"
+            }
+          ]
         }
       ]
     },
     {
+      "name": "Srimad Bhagavatam Hindi",
+      "volumes": [
+        {
+          "name": "Canto 1",
+          "volumes": [
+            {
+              "name": "Chapter_01_-_Muniyon_ki_Jigyasa",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-01/Chapter_01_-_Muniyon_ki_Jigyasa.pdf"
+            },
+            {
+              "name": "Chapter_02_-_Divyata_Tatha_Divya_Seva",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-01/Chapter_02_-_Divyata_Tatha_Divya_Seva.pdf"
+            },
+            {
+              "name": "Chapter_03_-_Samasta_Avataron_ke_Strot_Krishna",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-01/Chapter_03_-_Samasta_Avataron_ke_Strot_Krishna.pdf"
+            },
+            {
+              "name": "Chapter_04_-_Sri_Narada_ka_Prakatya",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-01/Chapter_04_-_Sri_Narada_ka_Prakatya.pdf"
+            },
+            {
+              "name": "Chapter_05_-_Narada_ka_Vyasadeva_ko_Aadesh",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-01/Chapter_05_-_Narada_ka_Vyasadeva_ko_Aadesh.pdf"
+            },
+            {
+              "name": "Chapter_06_-_Narada_Tatha_Vyasadeva_ka_Samvad",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-01/Chapter_06_-_Narada_Tatha_Vyasadeva_ka_Samvad.pdf"
+            },
+            {
+              "name": "Chapter_07_-_Drona_Putra_ko_Dand",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-01/Chapter_07_-_Drona_Putra_ko_Dand.pdf"
+            },
+            {
+              "name": "Chapter_08_-_Kunti_Maharani_ki_Prarthana",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-01/Chapter_08_-_Kunti_Maharani_ki_Prarthana.pdf"
+            },
+            {
+              "name": "Chapter_09_-_Bhishmadeva_ka_Deha_Tyag",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-01/Chapter_09_-_Bhishmadeva_ka_Deha_Tyag.pdf"
+            },
+            {
+              "name": "Chapter_10_-_Dwaraka_ke_liye_Sri_Krishna_ka_Prasthan",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-01/Chapter_10_-_Dwaraka_ke_liye_Sri_Krishna_ka_Prasthan.pdf"
+            },
+            {
+              "name": "Chapter_11_-_Sri_Krishna_ka_Dwaraka_mai_Pravesh",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-01/Chapter_11_-_Sri_Krishna_ka_Dwaraka_mai_Pravesh.pdf"
+            },
+            {
+              "name": "Chapter_12_-_Samrat_Parikshit_ka_Janma",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-01/Chapter_12_-_Samrat_Parikshit_ka_Janma.pdf"
+            },
+            {
+              "name": "Chapter_13_-_Dhritarashtra_ka_Griha_Tyag",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-01/Chapter_13_-_Dhritarashtra_ka_Griha_Tyag.pdf"
+            },
+            {
+              "name": "Chapter_14_-_Bhagavan_Sri_Krishna_ka_Antardhyan_hona",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-01/Chapter_14_-_Bhagavan_Sri_Krishna_ka_Antardhyan_hona.pdf"
+            },
+            {
+              "name": "Chapter_15_-_Pandavaon_ki_Samayik_Nivrutti",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-01/Chapter_15_-_Pandavaon_ki_Samayik_Nivrutti.pdf"
+            },
+            {
+              "name": "Chapter_16_-_Parikshit_ne_Kali_ka_Satkar_kis_prakar_kiya",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-01/Chapter_16_-_Parikshit_ne_Kali_ka_Satkar_kis_prakar_kiya.pdf"
+            },
+            {
+              "name": "Chapter_17_-_Kali_ko_Dand_tatha_Puraskaar",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-01/Chapter_17_-_Kali_ko_Dand_tatha_Puraskaar.pdf"
+            },
+            {
+              "name": "Chapter_18_-_Balak_dwara_Parikshit_ko_Shraap",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-01/Chapter_18_-_Balak_dwara_Parikshit_ko_Shraap.pdf"
+            },
+            {
+              "name": "Chapter_19_-_Shukadeva_Goswami_ka_Prakat_hona",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-01/Chapter_19_-_Shukadeva_Goswami_ka_Prakat_hona.pdf"
+            }
+          ]
+        },
+        {
+          "name": "Canto 2",
+          "volumes": [
+            {
+              "name": "Chapter_01_-_Is_Anubhuti_ka_Sopan",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-02/Chapter_01_-_Is_Anubhuti_ka_Sopan.pdf"
+            },
+            {
+              "name": "Chapter_02_-_Hridaya_Mein_Bhagavan",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-02/Chapter_02_-_Hridaya_Mein_Bhagavan.pdf"
+            },
+            {
+              "name": "Chapter_03_-_Shuddha_Bhaktimaya_Seva",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-02/Chapter_03_-_Shuddha_Bhaktimaya_Seva.pdf"
+            },
+            {
+              "name": "Chapter_04_-_Shrusti_ke_Prakram",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-02/Chapter_04_-_Shrusti_ke_Prakram.pdf"
+            },
+            {
+              "name": "Chapter_05_-_Samasta_Karano_ke_Karan",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-02/Chapter_05_-_Samasta_Karano_ke_Karan.pdf"
+            },
+            {
+              "name": "Chapter_06_-_Purusha_Shukta_ki_Pushti",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-02/Chapter_06_-_Purusha_Shukta_ki_Pushti.pdf"
+            },
+            {
+              "name": "Chapter_07_-_Vishist_Karyon_ke_Liye_Nirdisht_Avatar",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-02/Chapter_07_-_Vishist_Karyon_ke_Liye_Nirdisht_Avatar.pdf"
+            },
+            {
+              "name": "Chapter_08_-_Raja_Parikshit_dwara_puche_gye_Prashna",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-02/Chapter_08_-_Raja_Parikshit_dwara_puche_gye_Prashna.pdf"
+            },
+            {
+              "name": "Chapter_09_-_Sri_Bhagavan_ka_Uddharan_dete_hue_Uttar",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-02/Chapter_09_-_Sri_Bhagavan_ka_Uddharan_dete_hue_Uttar.pdf"
+            },
+            {
+              "name": "Chapter_10_-_Bhagavat_Sabhi_Prashno_ka_Uttar",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-02/Chapter_10_-_Bhagavat_Sabhi_Prashno_ka_Uttar.pdf"
+            }
+          ]
+        },
+        {
+          "name": "Canto 3",
+          "volumes": [
+            {
+              "name": "Chapter_01_-_Vidur_dwara_puche_gye_Prashna",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-03/Chapter_01_-_Vidur_dwara_puche_gye_Prashna.pdf"
+            },
+            {
+              "name": "Chapter_02_-_Bhagavan_Krishna_ka_Smaran",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-03/Chapter_02_-_Bhagavan_Krishna_ka_Smaran.pdf"
+            },
+            {
+              "name": "Chapter_03_-_Vrindavan_se_bahar_Bhagavan_ki_Lilayen",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-03/Chapter_03_-_Vrindavan_se_bahar_Bhagavan_ki_Lilayen.pdf"
+            },
+            {
+              "name": "Chapter_04_-_Vidur_ka_Maitreya_ke_pass_Jana",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-03/Chapter_04_-_Vidur_ka_Maitreya_ke_pass_Jana.pdf"
+            },
+            {
+              "name": "Chapter_05_-_Maitreya_se_Vidur_ki_Vartalap",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-03/Chapter_05_-_Maitreya_se_Vidur_ki_Vartalap.pdf"
+            },
+            {
+              "name": "Chapter_06_-_Vishwarup_ki_Srushti",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-03/Chapter_06_-_Vishwarup_ki_Srushti.pdf"
+            },
+            {
+              "name": "Chapter_07_-_Vidur_dwara_anya_Prashna",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-03/Chapter_07_-_Vidur_dwara_anya_Prashna.pdf"
+            },
+            {
+              "name": "Chapter_08_-_Garbodaksayi_Vishnu_se_Brahma_ka_Prakatya",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-03/Chapter_08_-_Garbodaksayi_Vishnu_se_Brahma_ka_Prakatya.pdf"
+            },
+            {
+              "name": "Chapter_09_-_Srijan_shakti_ke_liye_Brahma_dwara_Stuti",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-03/Chapter_09_-_Srijan_shakti_ke_liye_Brahma_dwara_Stuti.pdf"
+            },
+            {
+              "name": "Chapter_10_-_Srushti_ke_Vibhag",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-03/Chapter_10_-_Srushti_ke_Vibhag.pdf"
+            },
+            {
+              "name": "Chapter_11_-_Paramanu_se_Kaal_ki_Ganana",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-03/Chapter_11_-_Paramanu_se_Kaal_ki_Ganana.pdf"
+            },
+            {
+              "name": "Chapter_12_-_Kumaron_tatha_anyon_ki_srushti",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-03/Chapter_12_-_Kumaron_tatha_anyon_ki_srushti.pdf"
+            },
+            {
+              "name": "Chapter_13_-_Varah_Bhagavan_ka_Prakatya",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-03/Chapter_13_-_Varah_Bhagavan_ka_Prakatya.pdf"
+            },
+            {
+              "name": "Chapter_14_-_Sandhya_samay_Diti_ka_Garbha_Dharan_Karna",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-03/Chapter_14_-_Sandhya_samay_Diti_ka_Garbha_Dharan_Karna.pdf"
+            },
+            {
+              "name": "Chapter_15_-_Ishwar_ke_Samrajya_ka_Varnan",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-03/Chapter_15_-_Ishwar_ke_Samrajya_ka_Varnan.pdf"
+            },
+            {
+              "name": "Chapter_16_-_Jaya_Vijay_ko_Muniyo_ka_Shraap",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-03/Chapter_16_-_Jaya_Vijay_ko_Muniyo_ka_Shraap.pdf"
+            },
+            {
+              "name": "Chapter_17_-_Hiranyaksh_ki_Digvijay",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-03/Chapter_17_-_Hiranyaksh_ki_Digvijay.pdf"
+            },
+            {
+              "name": "Chapter_18_-_Varaha_tatha_Hiranyaksh_ke_Madhya_Yuddha",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-03/Chapter_18_-_Varaha_tatha_Hiranyaksh_ke_Madhya_Yuddha.pdf"
+            },
+            {
+              "name": "Chapter_19_-_Asur_Hiranyaksh_ka_Vadha",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-03/Chapter_19_-_Asur_Hiranyaksh_ka_Vadha.pdf"
+            },
+            {
+              "name": "Chapter_20_-_Maitreya_Vidur_Samvad",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-03/Chapter_20_-_Maitreya_Vidur_Samvad.pdf"
+            },
+            {
+              "name": "Chapter_21_-_Manu_Kardama_Samvad",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-03/Chapter_21_-_Manu_Kardama_Samvad.pdf"
+            },
+            {
+              "name": "Chapter_22_-_Kardama_tatha_Devahuti_ka_Parinaya",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-03/Chapter_22_-_Kardama_tatha_Devahuti_ka_Parinaya.pdf"
+            },
+            {
+              "name": "Chapter_23_-_Devahuti_ka_Shok",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-03/Chapter_23_-_Devahuti_ka_Shok.pdf"
+            },
+            {
+              "name": "Chapter_24_-_Kardama_Muni_ka_Vairagya",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-03/Chapter_24_-_Kardama_Muni_ka_Vairagya.pdf"
+            },
+            {
+              "name": "Chapter_25_-_Bhakti_Yoga_ki_Mahima",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-03/Chapter_25_-_Bhakti_Yoga_ki_Mahima.pdf"
+            },
+            {
+              "name": "Chapter_26_-_Prakruti_ke_Mulbhut_Siddhant",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-03/Chapter_26_-_Prakruti_ke_Mulbhut_Siddhant.pdf"
+            },
+            {
+              "name": "Chapter_27_-_Prakruti_ka_Gyan",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-03/Chapter_27_-_Prakruti_ka_Gyan.pdf"
+            },
+            {
+              "name": "Chapter_28_-_Bhakti_Sadhana_ke_liye_Kapil_ke_Aadesh",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-03/Chapter_28_-_Bhakti_Sadhana_ke_liye_Kapil_ke_Aadesh.pdf"
+            },
+            {
+              "name": "Chapter_29_-_Bhagavan_Kapil_dwara_Bhakti_ki_Vyakhya",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-03/Chapter_29_-_Bhagavan_Kapil_dwara_Bhakti_ki_Vyakhya.pdf"
+            },
+            {
+              "name": "Chapter_30_-_Viparit_Karmo_ka_Varnan",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-03/Chapter_30_-_Viparit_Karmo_ka_Varnan.pdf"
+            },
+            {
+              "name": "Chapter_31_-_Jivo_ki_Gati",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-03/Chapter_31_-_Jivo_ki_Gati.pdf"
+            },
+            {
+              "name": "Chapter_32_-_Karma_Bandhan",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-03/Chapter_32_-_Karma_Bandhan.pdf"
+            },
+            {
+              "name": "Chapter_33_-_Kapila_ke_Karya_Kalap",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-03/Chapter_33_-_Kapila_ke_Karya_Kalap.pdf"
+            }
+          ]
+        },
+        {
+          "name": "Canto 4",
+          "volumes": [
+            {
+              "name": "Chapter_01_-_Manu_Putriyon_ki_Vamshavali",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-04/Chapter_01_-_Manu_Putriyon_ki_Vamshavali.pdf"
+            },
+            {
+              "name": "Chapter_02_-_Daksha_dwara_Shivji_ko_Shraap",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-04/Chapter_02_-_Daksha_dwara_Shivji_ko_Shraap.pdf"
+            },
+            {
+              "name": "Chapter_03_-_Shivji_tatha_Sati_ka_Samvad",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-04/Chapter_03_-_Shivji_tatha_Sati_ka_Samvad.pdf"
+            },
+            {
+              "name": "Chapter_04_-_Sati_dwara_Sharir_Tyag",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-04/Chapter_04_-_Sati_dwara_Sharir_Tyag.pdf"
+            },
+            {
+              "name": "Chapter_05_-_Daksha_ke_Yagna_ka_Vidhvamsha",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-04/Chapter_05_-_Daksha_ke_Yagna_ka_Vidhvamsha.pdf"
+            },
+            {
+              "name": "Chapter_06_-_Brahma_dwara_Shiva_ko_manana",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-04/Chapter_06_-_Brahma_dwara_Shiva_ko_manana.pdf"
+            },
+            {
+              "name": "Chapter_07_-_Daksha_Yagya_Sampanna",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-04/Chapter_07_-_Daksha_Yagya_Sampanna.pdf"
+            },
+            {
+              "name": "Chapter_08_-_Dhruva_ka_Griha_Tyag",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-04/Chapter_08_-_Dhruva_ka_Griha_Tyag.pdf"
+            },
+            {
+              "name": "Chapter_09_-_Dhruva_ka_Ghar_Lautana",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-04/Chapter_09_-_Dhruva_ka_Ghar_Lautana.pdf"
+            },
+            {
+              "name": "Chapter_10_-_Yakshon_ki_Sath_Dhruva_ka_Yuddha",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-04/Chapter_10_-_Yakshon_ki_Sath_Dhruva_ka_Yuddha.pdf"
+            },
+            {
+              "name": "Chapter_11_-_Dhuva_ko_Manu_ki_Salaah",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-04/Chapter_11_-_Dhuva_ko_Manu_ki_Salaah.pdf"
+            },
+            {
+              "name": "Chapter_12_-_Dhuva_ka_Bhagavan_ke_pass_jana",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-04/Chapter_12_-_Dhuva_ka_Bhagavan_ke_pass_jana.pdf"
+            },
+            {
+              "name": "Chapter_13_-_Dhuva_ke_Vanshajon_ka_Varnan",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-04/Chapter_13_-_Dhuva_ke_Vanshajon_ka_Varnan.pdf"
+            },
+            {
+              "name": "Chapter_14_-_Raja_Vana_ki_Katha",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-04/Chapter_14_-_Raja_Vana_ki_Katha.pdf"
+            },
+            {
+              "name": "Chapter_15_-_Raja_Pruthu_ki_Utpatti",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-04/Chapter_15_-_Raja_Pruthu_ki_Utpatti.pdf"
+            },
+            {
+              "name": "Chapter_16_-_Bandijanon_ke_dwara_Pruthu_ki_Stuti",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-04/Chapter_16_-_Bandijanon_ke_dwara_Pruthu_ki_Stuti.pdf"
+            },
+            {
+              "name": "Chapter_17_-_Pruthu_ki_Prithvi_par_kupit_hona",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-04/Chapter_17_-_Pruthu_ki_Prithvi_par_kupit_hona.pdf"
+            },
+            {
+              "name": "Chapter_18_-_Pruthu_dwara_Prithvi_ka_Dohan",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-04/Chapter_18_-_Pruthu_dwara_Prithvi_ka_Dohan.pdf"
+            },
+            {
+              "name": "Chapter_19_-_Pruthu_ke_Sau_Asvamedha_Yagya",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-04/Chapter_19_-_Pruthu_ke_Sau_Asvamedha_Yagya.pdf"
+            },
+            {
+              "name": "Chapter_20_-_Pruthu_ke_Yagya_mai_Vishnu_ka_Prakatya",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-04/Chapter_20_-_Pruthu_ke_Yagya_mai_Vishnu_ka_Prakatya.pdf"
+            },
+            {
+              "name": "Chapter_21_-_Pruthu_dwara_Upadesh",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-04/Chapter_21_-_Pruthu_dwara_Upadesh.pdf"
+            },
+            {
+              "name": "Chapter_22_-_Charon_Kumaraon_se_Pruthu_ki_Bhet",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-04/Chapter_22_-_Charon_Kumaraon_se_Pruthu_ki_Bhet.pdf"
+            },
+            {
+              "name": "Chapter_23_-_Pruthu_ka_Bhagavad_Dham_Gaman",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-04/Chapter_23_-_Pruthu_ka_Bhagavad_Dham_Gaman.pdf"
+            },
+            {
+              "name": "Chapter_24_-_Shivaji_dwara_ki_gyi_stuti_ka_Gaan",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-04/Chapter_24_-_Shivaji_dwara_ki_gyi_stuti_ka_Gaan.pdf"
+            },
+            {
+              "name": "Chapter_25_-_Puranjan_ke_gunon_ka_Varnan",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-04/Chapter_25_-_Puranjan_ke_gunon_ka_Varnan.pdf"
+            },
+            {
+              "name": "Chapter_26_-_Puranjan_ka_Aakhet_ke_liye_Jana",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-04/Chapter_26_-_Puranjan_ka_Aakhet_ke_liye_Jana.pdf"
+            },
+            {
+              "name": "Chapter_27_-_Puranjan_ki_nagari_pe_Chandvega_ka_dava",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-04/Chapter_27_-_Puranjan_ki_nagari_pe_Chandvega_ka_dava.pdf"
+            },
+            {
+              "name": "Chapter_28_-_Agale_janma_mai_Puranjana_ko_Stri_Yoni",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-04/Chapter_28_-_Agale_janma_mai_Puranjana_ko_Stri_Yoni.pdf"
+            },
+            {
+              "name": "Chapter_29_-_Narada_aur_Prachinabarhi_Kemadhya_Vartalap",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-04/Chapter_29_-_Narada_aur_Prachinabarhi_Kemadhya_Vartalap.pdf"
+            },
+            {
+              "name": "Chapter_30_-_Prachetaon_ke_Karyakalap",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-04/Chapter_30_-_Prachetaon_ke_Karyakalap.pdf"
+            },
+            {
+              "name": "Chapter_31_-_Prachetaon_ko_Narada_ka_Updesh",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-04/Chapter_31_-_Prachetaon_ko_Narada_ka_Updesh.pdf"
+            }
+          ]
+        },
+        {
+          "name": "Canto 5",
+          "volumes": [
+            {
+              "name": "Chapter_01_-_Maharaj_Priyavrata_ka_Charitra",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-05/Chapter_01_-_Maharaj_Priyavrata_ka_Charitra.pdf"
+            },
+            {
+              "name": "Chapter_02_-_Maharaj_Agnidhara_ka_Charitra",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-05/Chapter_02_-_Maharaj_Agnidhara_ka_Charitra.pdf"
+            },
+            {
+              "name": "Chapter_03_-_Nabhi_Patni_Merudevi_le_Garbha_se_Rishabdeva_ka_Janma",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-05/Chapter_03_-_Nabhi_Patni_Merudevi_le_Garbha_se_Rishabdeva_ka_Janma.pdf"
+            },
+            {
+              "name": "Chapter_04_-_Bhagavan_Rishabhadeva_ke_Lakshan",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-05/Chapter_04_-_Bhagavan_Rishabhadeva_ke_Lakshan.pdf"
+            },
+            {
+              "name": "Chapter_05_-_Rishabhadeva_dwara_Putron_ko_updesh",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-05/Chapter_05_-_Rishabhadeva_dwara_Putron_ko_updesh.pdf"
+            },
+            {
+              "name": "Chapter_06_-_Rishabhadeva_ke_Karyakalap",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-05/Chapter_06_-_Rishabhadeva_ke_Karyakalap.pdf"
+            },
+            {
+              "name": "Chapter_07_-_Raja_Bharat_ke_Karyakalap",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-05/Chapter_07_-_Raja_Bharat_ke_Karyakalap.pdf"
+            },
+            {
+              "name": "Chapter_08_-_Bharat_Maharaj_ke_Charitra_ka_Varnan",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-05/Chapter_08_-_Bharat_Maharaj_ke_Charitra_ka_Varnan.pdf"
+            },
+            {
+              "name": "Chapter_09_-_Jada_Bharat_ka_Sarvotkrushta_Charitra",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-05/Chapter_09_-_Jada_Bharat_ka_Sarvotkrushta_Charitra.pdf"
+            },
+            {
+              "name": "Chapter_10_-_Jada_Bharat_Tatha_Rahugana_ki_Varta",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-05/Chapter_10_-_Jada_Bharat_Tatha_Rahugana_ki_Varta.pdf"
+            },
+            {
+              "name": "Chapter_11_-_Jada_Bharat_dwara_Rahugana_ko_Shiksha",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-05/Chapter_11_-_Jada_Bharat_dwara_Rahugana_ko_Shiksha.pdf"
+            },
+            {
+              "name": "Chapter_12_-_Maharaj_Rahugana_tatha_Jadabharat_ki_Varta",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-05/Chapter_12_-_Maharaj_Rahugana_tatha_Jadabharat_ki_Varta.pdf"
+            },
+            {
+              "name": "Chapter_13_-_Raja_Rahugana_Tatha_Jadabharat_ki_aage_Varta",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-05/Chapter_13_-_Raja_Rahugana_Tatha_Jadabharat_ki_aage_Varta.pdf"
+            },
+            {
+              "name": "Chapter_14_-_Bhautik_Samsar_bhog_ka_ek_Vikat_Van",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-05/Chapter_14_-_Bhautik_Samsar_bhog_ka_ek_Vikat_Van.pdf"
+            },
+            {
+              "name": "Chapter_15_-_Priyavrata_ke_Vanshajon_ka_Yash_Varnan",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-05/Chapter_15_-_Priyavrata_ke_Vanshajon_ka_Yash_Varnan.pdf"
+            },
+            {
+              "name": "Chapter_16_-_Jambhudwip_ka_Varnan",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-05/Chapter_16_-_Jambhudwip_ka_Varnan.pdf"
+            },
+            {
+              "name": "Chapter_17_-_Ganga_Avataran",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-05/Chapter_17_-_Ganga_Avataran.pdf"
+            },
+            {
+              "name": "Chapter_18_-_Jambudwip_ke_Nivashiyon_dwara_Bhagavan_ki_Stuti",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-05/Chapter_18_-_Jambudwip_ke_Nivashiyon_dwara_Bhagavan_ki_Stuti.pdf"
+            },
+            {
+              "name": "Chapter_19_-_Jambudwip_ka_Varnan",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-05/Chapter_19_-_Jambudwip_ka_Varnan.pdf"
+            },
+            {
+              "name": "Chapter_20_-_Brahmanda_Rachna_ka_Vishleshan",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-05/Chapter_20_-_Brahmanda_Rachna_ka_Vishleshan.pdf"
+            },
+            {
+              "name": "Chapter_21_-_Surya_ki_Gation_ka_Varnan",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-05/Chapter_21_-_Surya_ki_Gation_ka_Varnan.pdf"
+            },
+            {
+              "name": "Chapter_22_-_Grahon_ki_Kakshayein",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-05/Chapter_22_-_Grahon_ki_Kakshayein.pdf"
+            },
+            {
+              "name": "Chapter_23_-_Shishkumar_Graha_Mandala",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-05/Chapter_23_-_Shishkumar_Graha_Mandala.pdf"
+            },
+            {
+              "name": "Chapter_24_-_Niche_ke_Swargiya_Lokon_ka_Varnan",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-05/Chapter_24_-_Niche_ke_Swargiya_Lokon_ka_Varnan.pdf"
+            },
+            {
+              "name": "Chapter_25_-_Bhagavan_Anant_ki_Mahima",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-05/Chapter_25_-_Bhagavan_Anant_ki_Mahima.pdf"
+            },
+            {
+              "name": "Chapter_26_-_Narkiye_Loko_ka_Varnan",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-05/Chapter_26_-_Narkiye_Loko_ka_Varnan.pdf"
+            }
+          ]
+        },
+        {
+          "name": "Canto 6",
+          "volumes": [
+            {
+              "name": "Chapter_01_-_Ajamil_ke_Jivan_ka_Itihas",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-06/Chapter_01_-_Ajamil_ke_Jivan_ka_Itihas.pdf"
+            },
+            {
+              "name": "Chapter_02_-_Vishnuduton_ke_dwara_Ajamil_ka_Uddhar",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-06/Chapter_02_-_Vishnuduton_ke_dwara_Ajamil_ka_Uddhar.pdf"
+            },
+            {
+              "name": "Chapter_03_-_Yamraj_dwara_Yaduton_ko_Aadesh",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-06/Chapter_03_-_Yamraj_dwara_Yaduton_ko_Aadesh.pdf"
+            },
+            {
+              "name": "Chapter_04_-_Prajapati_Daksh_dwara_Hamsguhya_Prarthana",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-06/Chapter_04_-_Prajapati_Daksh_dwara_Hamsguhya_Prarthana.pdf"
+            },
+            {
+              "name": "Chapter_05_-_Prajapati_Daksh_dwara_Narada_Muni_ko_Shraap",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-06/Chapter_05_-_Prajapati_Daksh_dwara_Narada_Muni_ko_Shraap.pdf"
+            },
+            {
+              "name": "Chapter_06_-_Daksh_ki_Kanyaon_ka_Vansh",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-06/Chapter_06_-_Daksh_ki_Kanyaon_ka_Vansh.pdf"
+            },
+            {
+              "name": "Chapter_07_-_Indra_dwara_Guru_Brihaspati_ka_Apmaan",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-06/Chapter_07_-_Indra_dwara_Guru_Brihaspati_ka_Apmaan.pdf"
+            },
+            {
+              "name": "Chapter_08_-_Narayan_Kavach",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-06/Chapter_08_-_Narayan_Kavach.pdf"
+            },
+            {
+              "name": "Chapter_09_-_Vritrasur_Rakshas_ka_Aavirbhav",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-06/Chapter_09_-_Vritrasur_Rakshas_ka_Aavirbhav.pdf"
+            },
+            {
+              "name": "Chapter_10_-_Devataon_tatha_Vritrasur_ke_Madhya_Yuddha",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-06/Chapter_10_-_Devataon_tatha_Vritrasur_ke_Madhya_Yuddha.pdf"
+            },
+            {
+              "name": "Chapter_11_-_Vritrasur_ke_Divya_Guna",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-06/Chapter_11_-_Vritrasur_ke_Divya_Guna.pdf"
+            },
+            {
+              "name": "Chapter_12_-_Vritrasur_ki_Yasasvi_Mrityu",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-06/Chapter_12_-_Vritrasur_ki_Yasasvi_Mrityu.pdf"
+            },
+            {
+              "name": "Chapter_13_-_Brahma_Hatya_se_Pidit_Raja_Indra",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-06/Chapter_13_-_Brahma_Hatya_se_Pidit_Raja_Indra.pdf"
+            },
+            {
+              "name": "Chapter_14_-_Raja_Chitraketu_ka_Shok",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-06/Chapter_14_-_Raja_Chitraketu_ka_Shok.pdf"
+            },
+            {
+              "name": "Chapter_15_-_Narada_Tatha_Angira_ka_Chitraketu_ko_Updesh",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-06/Chapter_15_-_Narada_Tatha_Angira_ka_Chitraketu_ko_Updesh.pdf"
+            },
+            {
+              "name": "Chapter_16_-_Chitraketu_ki_Parmeshwar_se_Bhet",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-06/Chapter_16_-_Chitraketu_ki_Parmeshwar_se_Bhet.pdf"
+            },
+            {
+              "name": "Chapter_17_-_Mata_Parvati_dwara_Chitraketu_ko_Shraap",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-06/Chapter_17_-_Mata_Parvati_dwara_Chitraketu_ko_Shraap.pdf"
+            },
+            {
+              "name": "Chapter_18_-_Indra_ka_Vadh_karane_ke_liye_Diti_ka_Vrat",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-06/Chapter_18_-_Indra_ka_Vadh_karane_ke_liye_Diti_ka_Vrat.pdf"
+            },
+            {
+              "name": "Chapter_19_-_Pumsavan_Vrat_ka_Anusthan",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-06/Chapter_19_-_Pumsavan_Vrat_ka_Anusthan.pdf"
+            }
+          ]
+        },
+        {
+          "name": "Canto 7",
+          "volumes": [
+            {
+              "name": "Chapter_01_-_Samdarshi_Bhagavan",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-07/Chapter_01_-_Samdarshi_Bhagavan.pdf"
+            },
+            {
+              "name": "Chapter_02_-_Asurraj_Hiranyakashipu",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-07/Chapter_02_-_Asurraj_Hiranyakashipu.pdf"
+            },
+            {
+              "name": "Chapter_03_-_Hiranyakashipu_ki_Amar_Banne_ki_Yojana",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-07/Chapter_03_-_Hiranyakashipu_ki_Amar_Banne_ki_Yojana.pdf"
+            },
+            {
+              "name": "Chapter_04_-_Brahmanda_mai_Hiranyakashipu_ka_Aatank",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-07/Chapter_04_-_Brahmanda_mai_Hiranyakashipu_ka_Aatank.pdf"
+            },
+            {
+              "name": "Chapter_05_-_Hirankashipu_ka_Sadhu_Putra_Prahlad",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-07/Chapter_05_-_Hirankashipu_ka_Sadhu_Putra_Prahlad.pdf"
+            },
+            {
+              "name": "Chapter_06_-_Prahlad_Kasahpathiyon_ko_Updesh",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-07/Chapter_06_-_Prahlad_Kasahpathiyon_ko_Updesh.pdf"
+            },
+            {
+              "name": "Chapter_07_-_Prahlad_ne_Garbh_mai_kya_Sikha",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-07/Chapter_07_-_Prahlad_ne_Garbh_mai_kya_Sikha.pdf"
+            },
+            {
+              "name": "Chapter_08_-_Bhagavan_Narsimha_dwara_Hiranyakashipu_ka_Vadh",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-07/Chapter_08_-_Bhagavan_Narsimha_dwara_Hiranyakashipu_ka_Vadh.pdf"
+            },
+            {
+              "name": "Chapter_09_-_Prahlad_dwara_Narsimhadev_ko_Prarthanaon_se_Shant_Karna",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-07/Chapter_09_-_Prahlad_dwara_Narsimhadev_ko_Prarthanaon_se_Shant_Karna.pdf"
+            },
+            {
+              "name": "Chapter_10_-_Bhakta_Shiromani_Prahlada",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-07/Chapter_10_-_Bhakta_Shiromani_Prahlada.pdf"
+            },
+            {
+              "name": "Chapter_11_-_Purna_Samaj_Chaturvarna",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-07/Chapter_11_-_Purna_Samaj_Chaturvarna.pdf"
+            },
+            {
+              "name": "Chapter_12_-_Purna_Samaj_Chaar_Adhyatmik_Varga",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-07/Chapter_12_-_Purna_Samaj_Chaar_Adhyatmik_Varga.pdf"
+            },
+            {
+              "name": "Chapter_13_-_Siddha_Purusha_ka_Aacharan",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-07/Chapter_13_-_Siddha_Purusha_ka_Aacharan.pdf"
+            },
+            {
+              "name": "Chapter_14_-_Aadarsh_Parivarik_Jivan",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-07/Chapter_14_-_Aadarsh_Parivarik_Jivan.pdf"
+            },
+            {
+              "name": "Chapter_15_-_Susanskrut_Manushyon_ke_Liye_Updesh",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-07/Chapter_15_-_Susanskrut_Manushyon_ke_Liye_Updesh.pdf"
+            }
+          ]
+        },
+        {
+          "name": "Canto 8",
+          "volumes": [
+            {
+              "name": "Chapter_01_-_Brahmand_ke_Prashasak_Manu",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-08/Chapter_01_-_Brahmand_ke_Prashasak_Manu.pdf"
+            },
+            {
+              "name": "Chapter_02_-_Gajendra_Ka_Sankat",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-08/Chapter_02_-_Gajendra_Ka_Sankat.pdf"
+            },
+            {
+              "name": "Chapter_03_-_Gajendra_Ki_Samarpana_Stuti",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-08/Chapter_03_-_Gajendra_Ki_Samarpana_Stuti.pdf"
+            },
+            {
+              "name": "Chapter_04_-_Gajendra_Ka_Vaikuntha_Gaman",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-08/Chapter_04_-_Gajendra_Ka_Vaikuntha_Gaman.pdf"
+            },
+            {
+              "name": "Chapter_05_-_Devataon_dwara_bhagavan_se_Suraksha_Yatra",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-08/Chapter_05_-_Devataon_dwara_bhagavan_se_Suraksha_Yatra.pdf"
+            },
+            {
+              "name": "Chapter_06_-_Devataon_Tatha_Asuron_dwara_Sandhi_ki_Ghosana",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-08/Chapter_06_-_Devataon_Tatha_Asuron_dwara_Sandhi_ki_Ghosana.pdf"
+            },
+            {
+              "name": "Chapter_07_-_Shivji_dwara_Vishpanse_Brahmanda_ki_Rakshan",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-08/Chapter_07_-_Shivji_dwara_Vishpanse_Brahmanda_ki_Rakshan.pdf"
+            },
+            {
+              "name": "Chapter_08_-_Kshir_Sagar_ka_Manthan",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-08/Chapter_08_-_Kshir_Sagar_ka_Manthan.pdf"
+            },
+            {
+              "name": "Chapter_09_-_Mohini_Murti_ke_Rupa_mai_Bhagavan_ka_Avatar",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-08/Chapter_09_-_Mohini_Murti_ke_Rupa_mai_Bhagavan_ka_Avatar.pdf"
+            },
+            {
+              "name": "Chapter_10_-_Devataon_tatha_Asuron_ke_bich_Yuddha",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-08/Chapter_10_-_Devataon_tatha_Asuron_ke_bich_Yuddha.pdf"
+            },
+            {
+              "name": "Chapter_11_-_Indra_dwara_Asuro_ka_Sanhar",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-08/Chapter_11_-_Indra_dwara_Asuro_ka_Sanhar.pdf"
+            },
+            {
+              "name": "Chapter_12_-_Mohini_Murti_Avatar_par_Shivji_ka_Mohit_Hona",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-08/Chapter_12_-_Mohini_Murti_Avatar_par_Shivji_ka_Mohit_Hona.pdf"
+            },
+            {
+              "name": "Chapter_13_-_Bhavi_Manuon_ka_Varnan",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-08/Chapter_13_-_Bhavi_Manuon_ka_Varnan.pdf"
+            },
+            {
+              "name": "Chapter_14_-_Vishwa_Vyavastha_ki_Paddhati",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-08/Chapter_14_-_Vishwa_Vyavastha_ki_Paddhati.pdf"
+            },
+            {
+              "name": "Chapter_15_-_Bali_Maharaj_dwara_Swarg_par_Vijay",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-08/Chapter_15_-_Bali_Maharaj_dwara_Swarg_par_Vijay.pdf"
+            },
+            {
+              "name": "Chapter_16_-_Payovrata_Puja_Vidhi_ka_Palan_Karna",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-08/Chapter_16_-_Payovrata_Puja_Vidhi_ka_Palan_Karna.pdf"
+            },
+            {
+              "name": "Chapter_17_-_Bhagavan_ko_Aditi_ka_Putra_Banna_Svikaar",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-08/Chapter_17_-_Bhagavan_ko_Aditi_ka_Putra_Banna_Svikaar.pdf"
+            },
+            {
+              "name": "Chapter_18_-_Bhagavan_Vamandeva",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-08/Chapter_18_-_Bhagavan_Vamandeva.pdf"
+            },
+            {
+              "name": "Chapter_19_-_Bali_se_Vamandeva_dwara_daan_ki_Yachana",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-08/Chapter_19_-_Bali_se_Vamandeva_dwara_daan_ki_Yachana.pdf"
+            },
+            {
+              "name": "Chapter_20_-_Bali_Maharaj_dwara_Brahmand_Samarpana",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-08/Chapter_20_-_Bali_Maharaj_dwara_Brahmand_Samarpana.pdf"
+            },
+            {
+              "name": "Chapter_21_-_Bhagavan_dwara_Bali_Maharaj_ko_bandi_banaya_Jana",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-08/Chapter_21_-_Bhagavan_dwara_Bali_Maharaj_ko_bandi_banaya_Jana.pdf"
+            },
+            {
+              "name": "Chapter_22_-_Bali_Maharaj_dwara_Aatmasamarpana",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-08/Chapter_22_-_Bali_Maharaj_dwara_Aatmasamarpana.pdf"
+            },
+            {
+              "name": "Chapter_23_-_Devataon_ko_Swarglok_ki_Punarprapti",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-08/Chapter_23_-_Devataon_ko_Swarglok_ki_Punarprapti.pdf"
+            },
+            {
+              "name": "Chapter_24_-_Bhagavan_ka_Matsyavatar",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-08/Chapter_24_-_Bhagavan_ka_Matsyavatar.pdf"
+            }
+          ]
+        },
+        {
+          "name": "Canto 9",
+          "volumes": [
+            {
+              "name": "Chapter_01_-_Raja_Sudyumna_ka_Stri_Banna",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-09/Chapter_01_-_Raja_Sudyumna_ka_Stri_Banna.pdf"
+            },
+            {
+              "name": "Chapter_02_-_Manu_ke_Putron_ki_Vanshavaliyan",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-09/Chapter_02_-_Manu_ke_Putron_ki_Vanshavaliyan.pdf"
+            },
+            {
+              "name": "Chapter_03_-_Sukanya_tatha_Chyavan_Muni_ka_Vivah",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-09/Chapter_03_-_Sukanya_tatha_Chyavan_Muni_ka_Vivah.pdf"
+            },
+            {
+              "name": "Chapter_04_-_Durvasa_dwara_Ambarish_ka_Apman",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-09/Chapter_04_-_Durvasa_dwara_Ambarish_ka_Apman.pdf"
+            },
+            {
+              "name": "Chapter_05_-_Durvasa_ko_Jivan_Daan",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-09/Chapter_05_-_Durvasa_ko_Jivan_Daan.pdf"
+            },
+            {
+              "name": "Chapter_06_-_Saubhari_Muni_ka_Patan",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-09/Chapter_06_-_Saubhari_Muni_ka_Patan.pdf"
+            },
+            {
+              "name": "Chapter_07_-_Mandhata_ke_Vanshaj",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-09/Chapter_07_-_Mandhata_ke_Vanshaj.pdf"
+            },
+            {
+              "name": "Chapter_08_-_Bhagavan_Kapildeva_se_Sagar_Putron_ki_Bhet",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-09/Chapter_08_-_Bhagavan_Kapildeva_se_Sagar_Putron_ki_Bhet.pdf"
+            },
+            {
+              "name": "Chapter_09_-_Amshuman_ki_Vamsavali",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-09/Chapter_09_-_Amshuman_ki_Vamsavali.pdf"
+            },
+            {
+              "name": "Chapter_10_-_Bhagavan_Ramachandra_ki_Lilayen",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-09/Chapter_10_-_Bhagavan_Ramachandra_ki_Lilayen.pdf"
+            },
+            {
+              "name": "Chapter_11_-_Bhagavan_Ramachandra_ka_Vishwa_par_Raj_Karna",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-09/Chapter_11_-_Bhagavan_Ramachandra_ka_Vishwa_par_Raj_Karna.pdf"
+            },
+            {
+              "name": "Chapter_12_-_Kush_ki_Vamshavali",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-09/Chapter_12_-_Kush_ki_Vamshavali.pdf"
+            },
+            {
+              "name": "Chapter_13_-_Nimi_ki_Vamshavali",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-09/Chapter_13_-_Nimi_ki_Vamshavali.pdf"
+            },
+            {
+              "name": "Chapter_14_-_Pururava_ka_Urvashi_par_Mohit_Hona",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-09/Chapter_14_-_Pururava_ka_Urvashi_par_Mohit_Hona.pdf"
+            },
+            {
+              "name": "Chapter_15_-_Bhagavan_ka_Yoddha_Avatar_Parshuram",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-09/Chapter_15_-_Bhagavan_ka_Yoddha_Avatar_Parshuram.pdf"
+            },
+            {
+              "name": "Chapter_16_-_Parshuram_dwara_Kshatriyon_ka_Vinash",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-09/Chapter_16_-_Parshuram_dwara_Kshatriyon_ka_Vinash.pdf"
+            },
+            {
+              "name": "Chapter_17_-_Pururava_ke_Puron_ki_Vamshavali",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-09/Chapter_17_-_Pururava_ke_Puron_ki_Vamshavali.pdf"
+            },
+            {
+              "name": "Chapter_18_-_Yayati_ko_Yauvan_ki_punah_Prapti",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-09/Chapter_18_-_Yayati_ko_Yauvan_ki_punah_Prapti.pdf"
+            },
+            {
+              "name": "Chapter_19_-_Yayati_ko_Mukti_Labha",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-09/Chapter_19_-_Yayati_ko_Mukti_Labha.pdf"
+            },
+            {
+              "name": "Chapter_20_-_Puru_ka_Vansha",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-09/Chapter_20_-_Puru_ka_Vansha.pdf"
+            },
+            {
+              "name": "Chapter_21_-_Bharat_ka_Vansha",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-09/Chapter_21_-_Bharat_ka_Vansha.pdf"
+            },
+            {
+              "name": "Chapter_22_-_Ajmida_ke_Vanshaj",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-09/Chapter_22_-_Ajmida_ke_Vanshaj.pdf"
+            },
+            {
+              "name": "Chapter_23_-_Yayati_Putron_ki_Vanshavali",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-09/Chapter_23_-_Yayati_Putron_ki_Vanshavali.pdf"
+            },
+            {
+              "name": "Chapter_24_-_Bhagavan_Sri_Krishna",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-09/Chapter_24_-_Bhagavan_Sri_Krishna.pdf"
+            }
+          ]
+        },
+        {
+          "name": "Canto 10",
+          "volumes": [
+            {
+              "name": "Chapter_01_-_Bhagavan_Sri_Krishna_ka_Avatar",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-10/Part-01/Chapter_01_-_Bhagavan_Sri_Krishna_ka_Avatar.pdf"
+            },
+            {
+              "name": "Chapter_02_-_Devataon_dwara_Garbhasth_Krishna_ki_Stuti",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-10/Part-01/Chapter_02_-_Devataon_dwara_Garbhasth_Krishna_ki_Stuti.pdf"
+            },
+            {
+              "name": "Chapter_03_-_Sri_Krishna_Janma",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-10/Part-01/Chapter_03_-_Sri_Krishna_Janma.pdf"
+            },
+            {
+              "name": "Chapter_04_-_Raja_Kamsa_ke_Atyachaar",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-10/Part-01/Chapter_04_-_Raja_Kamsa_ke_Atyachaar.pdf"
+            },
+            {
+              "name": "Chapter_05_-_Nanda_Maharaj_tatha_Vasudeva_ki_Bhet",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-10/Part-01/Chapter_05_-_Nanda_Maharaj_tatha_Vasudeva_ki_Bhet.pdf"
+            },
+            {
+              "name": "Chapter_06_-_Putana_Vadha",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-10/Part-01/Chapter_06_-_Putana_Vadha.pdf"
+            },
+            {
+              "name": "Chapter_07_-_Trinavarta_ka_Vadha",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-10/Part-01/Chapter_07_-_Trinavarta_ka_Vadha.pdf"
+            },
+            {
+              "name": "Chapter_08_-_Krishna_dwara_apne_mukh_ke_bhitar_Virat_Rupa_Pradarshan",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-10/Part-01/Chapter_08_-_Krishna_dwara_apne_mukh_ke_bhitar_Virat_Rupa_Pradarshan.pdf"
+            },
+            {
+              "name": "Chapter_09_-_Mata_yashoda_dwara_Krishna_ka_Bandha_Jana",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-10/Part-01/Chapter_09_-_Mata_yashoda_dwara_Krishna_ka_Bandha_Jana.pdf"
+            },
+            {
+              "name": "Chapter_10_-_Yamala_Arjuna_Vrikshon_ka_Uddhar",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-10/Part-01/Chapter_10_-_Yamala_Arjuna_Vrikshon_ka_Uddhar.pdf"
+            },
+            {
+              "name": "Chapter_11_-_Krishna_ki_Bal_Lilayein",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-10/Part-01/Chapter_11_-_Krishna_ki_Bal_Lilayein.pdf"
+            },
+            {
+              "name": "Chapter_12_-_Aghasur_ka_Vadha",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-10/Part-01/Chapter_12_-_Aghasur_ka_Vadha.pdf"
+            },
+            {
+              "name": "Chapter_13_-_Brahma_dwara_Balkon_tatha_Bachhadon_ki_Chori",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-10/Part-01/Chapter_13_-_Brahma_dwara_Balkon_tatha_Bachhadon_ki_Chori.pdf"
+            },
+            {
+              "name": "Chapter_14_-_Brahma_dwara_Sri_Krishna_ki_Stuti",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-10/Part-02/Chapter_14_-_Brahma_dwara_Sri_Krishna_ki_Stuti.pdf"
+            },
+            {
+              "name": "Chapter_15_-_Dhenukasur_ka_Vadha",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-10/Part-02/Chapter_15_-_Dhenukasur_ka_Vadha.pdf"
+            },
+            {
+              "name": "Chapter_16_-_Krishna_dwara_Kaliya_Naag_ko_Pratadana",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-10/Part-02/Chapter_16_-_Krishna_dwara_Kaliya_Naag_ko_Pratadana.pdf"
+            },
+            {
+              "name": "Chapter_17_-_Kaliya_ka_Itihaas",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-10/Part-02/Chapter_17_-_Kaliya_ka_Itihaas.pdf"
+            },
+            {
+              "name": "Chapter_18_-_Balaram_dwara_Pralambasur_ka_Vadha",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-10/Part-02/Chapter_18_-_Balaram_dwara_Pralambasur_ka_Vadha.pdf"
+            },
+            {
+              "name": "Chapter_19_-_Davanal_Paan",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-10/Part-02/Chapter_19_-_Davanal_Paan.pdf"
+            },
+            {
+              "name": "Chapter_20_-_Vrindavan_mai_Varsha_Ritu_tatha_Sharad_Ritu",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-10/Part-02/Chapter_20_-_Vrindavan_mai_Varsha_Ritu_tatha_Sharad_Ritu.pdf"
+            },
+            {
+              "name": "Chapter_21_-_Gopiyo_dwara_Krishna_ke_Venugeet_ki_Sarahana",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-10/Part-02/Chapter_21_-_Gopiyo_dwara_Krishna_ke_Venugeet_ki_Sarahana.pdf"
+            },
+            {
+              "name": "Chapter_22_-_Krishna_dwara_avivahit_Gopiyon_ka_Chiraharan",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-10/Part-02/Chapter_22_-_Krishna_dwara_avivahit_Gopiyon_ka_Chiraharan.pdf"
+            },
+            {
+              "name": "Chapter_23_-_Brahmana_Patniyon_ko_Aashirwad",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-10/Part-02/Chapter_23_-_Brahmana_Patniyon_ko_Aashirwad.pdf"
+            },
+            {
+              "name": "Chapter_24_-_Govardhan_Puja",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-10/Part-02/Chapter_24_-_Govardhan_Puja.pdf"
+            },
+            {
+              "name": "Chapter_25_-_krishna_dwara_Govardhan_Dharan",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-10/Part-02/Chapter_25_-_krishna_dwara_Govardhan_Dharan.pdf"
+            },
+            {
+              "name": "Chapter_26_-_Adbhut_Krishna",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-10/Part-02/Chapter_26_-_Adbhut_Krishna.pdf"
+            },
+            {
+              "name": "Chapter_27_-_Indradev_tatha_mata_Surabhi_dwara_Stuti",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-10/Part-02/Chapter_27_-_Indradev_tatha_mata_Surabhi_dwara_Stuti.pdf"
+            },
+            {
+              "name": "Chapter_28_-_Krishna_dwara_Varunalok_se_Nanda_Maharaj_ki_Raksha",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-10/Part-02/Chapter_28_-_Krishna_dwara_Varunalok_se_Nanda_Maharaj_ki_Raksha.pdf"
+            },
+            {
+              "name": "Chapter_29_-_Raas_Nritya_ke_Liye_Krishna_tatha_Gopiyon_ka_Milan",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-10/Part-02/Chapter_29_-_Raas_Nritya_ke_Liye_Krishna_tatha_Gopiyon_ka_Milan.pdf"
+            },
+            {
+              "name": "Chapter_30_-_Gopiyon_dwara_Krishna_ki_Khoj",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-10/Part-02/Chapter_30_-_Gopiyon_dwara_Krishna_ki_Khoj.pdf"
+            },
+            {
+              "name": "Chapter_31_-_Gopiyon_ki_Virah_Geet",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-10/Part-02/Chapter_31_-_Gopiyon_ki_Virah_Geet.pdf"
+            },
+            {
+              "name": "Chapter_32_-_Punah_Milan",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-10/Part-02/Chapter_32_-_Punah_Milan.pdf"
+            },
+            {
+              "name": "Chapter_33_-_Raas_Nritya",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-10/Part-02/Chapter_33_-_Raas_Nritya.pdf"
+            },
+            {
+              "name": "Chapter_34_-_Nanda_Mharaj_ki_Raksha_tatha_Shankhcud_ka_Vadh",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-10/Part-02/Chapter_34_-_Nanda_Mharaj_ki_Raksha_tatha_Shankhcud_ka_Vadh.pdf"
+            },
+            {
+              "name": "Chapter_35_-_Krishna_ke_Vanvihar_ke_samay_gopiyon_ka_Krishna_Gayan",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-10/Part-02/Chapter_35_-_Krishna_ke_Vanvihar_ke_samay_gopiyon_ka_Krishna_Gayan.pdf"
+            },
+            {
+              "name": "Chapter_36_-_Vrishbhasur_Arista_ka_Vadh",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-10/Part-02/Chapter_36_-_Vrishbhasur_Arista_ka_Vadh.pdf"
+            },
+            {
+              "name": "Chapter_37_-_Keshi_Tatha_Vyomasura_Ka_Vadh",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-10/Part-02/Chapter_37_-_Keshi_Tatha_Vyomasura_Ka_Vadh.pdf"
+            },
+            {
+              "name": "Chapter_38_-_Vrindavan_Me_Akrura_Ka_Agaman",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-10/Part-02/Chapter_38_-_Vrindavan_Me_Akrura_Ka_Agaman.pdf"
+            },
+            {
+              "name": "Chapter_39_-_Akrura_dwara_Darshan",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-10/Part-02/Chapter_39_-_Akrura_dwara_Darshan.pdf"
+            },
+            {
+              "name": "Chapter_40_-_Akrura_dwara_Stuti",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-10/Part-02/Chapter_40_-_Akrura_dwara_Stuti.pdf"
+            },
+            {
+              "name": "Chapter_41_-_Krishna_tatha_Balaram_ka_Mathura_mai_Pravesh",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-10/Part-02/Chapter_41_-_Krishna_tatha_Balaram_ka_Mathura_mai_Pravesh.pdf"
+            },
+            {
+              "name": "Chapter_42_-_Yagya_ke_Dhanush_ka_Tutna",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-10/Part-02/Chapter_42_-_Yagya_ke_Dhanush_ka_Tutna.pdf"
+            },
+            {
+              "name": "Chapter_43_-_Krishna_dwara_Kuvalayapid_Hathi_ka_Vadh",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-10/Part-02/Chapter_43_-_Krishna_dwara_Kuvalayapid_Hathi_ka_Vadh.pdf"
+            },
+            {
+              "name": "Chapter_44_-_Kamsa_Vadh",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-10/Part-02/Chapter_44_-_Kamsa_Vadh.pdf"
+            },
+            {
+              "name": "Chapter_45_-_Krishna_dwara_apne_guru_Putra_ki_Raksha",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-10/Part-03/Chapter_45_-_Krishna_dwara_apne_guru_Putra_ki_Raksha.pdf"
+            },
+            {
+              "name": "Chapter_46_-_Uddhava_ki_Vrindavan_Yatra",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-10/Part-03/Chapter_46_-_Uddhava_ki_Vrindavan_Yatra.pdf"
+            },
+            {
+              "name": "Chapter_47_-_Bhramar_Geet",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-10/Part-03/Chapter_47_-_Bhramar_Geet.pdf"
+            },
+            {
+              "name": "Chapter_48_-_Krishna_dwara_apne_Bhakton_ki_tushti",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-10/Part-03/Chapter_48_-_Krishna_dwara_apne_Bhakton_ki_tushti.pdf"
+            },
+            {
+              "name": "Chapter_49_-_Akrura_ka_Hastinapur_Jana",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-10/Part-03/Chapter_49_-_Akrura_ka_Hastinapur_Jana.pdf"
+            },
+            {
+              "name": "Chapter_50_-_Krishna_dwara_Dwarkapuri_ki_Sthapana",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-10/Part-03/Chapter_50_-_Krishna_dwara_Dwarkapuri_ki_Sthapana.pdf"
+            },
+            {
+              "name": "Chapter_51_-_Muchukunda_ka_Uddhar",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-10/Part-03/Chapter_51_-_Muchukunda_ka_Uddhar.pdf"
+            },
+            {
+              "name": "Chapter_52_-_Krishna_ke_Liye_Rukmini_Sandesh",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-10/Part-03/Chapter_52_-_Krishna_ke_Liye_Rukmini_Sandesh.pdf"
+            },
+            {
+              "name": "Chapter_53_-_Krishna_dwara_Rukmini_ka_Apaharan",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-10/Part-03/Chapter_53_-_Krishna_dwara_Rukmini_ka_Apaharan.pdf"
+            },
+            {
+              "name": "Chapter_54_-_Krishna_Rukmini_Vivah",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-10/Part-03/Chapter_54_-_Krishna_Rukmini_Vivah.pdf"
+            },
+            {
+              "name": "Chapter_55_-_Pradyumna_Katha",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-10/Part-03/Chapter_55_-_Pradyumna_Katha.pdf"
+            },
+            {
+              "name": "Chapter_56_-_Syamantak_Mani",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-10/Part-03/Chapter_56_-_Syamantak_Mani.pdf"
+            },
+            {
+              "name": "Chapter_57_-_Satrajit_ki_hatya_aur_mani_ki_Vapasi",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-10/Part-03/Chapter_57_-_Satrajit_ki_hatya_aur_mani_ki_Vapasi.pdf"
+            },
+            {
+              "name": "Chapter_58_-_Sri_Krishna_ka_Panch_Rajkumariyon_se_Vivah",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-10/Part-03/Chapter_58_-_Sri_Krishna_ka_Panch_Rajkumariyon_se_Vivah.pdf"
+            },
+            {
+              "name": "Chapter_59_-_Narakasur_ka_Vadh",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-10/Part-03/Chapter_59_-_Narakasur_ka_Vadh.pdf"
+            },
+            {
+              "name": "Chapter_60_-_Rukmini_ke_Sath_Krishna_ka_Parihaas",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-10/Part-03/Chapter_60_-_Rukmini_ke_Sath_Krishna_ka_Parihaas.pdf"
+            },
+            {
+              "name": "Chapter_61_-_Balaram_dwara_Rukmi_ka_Vadh",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-10/Part-03/Chapter_61_-_Balaram_dwara_Rukmi_ka_Vadh.pdf"
+            },
+            {
+              "name": "Chapter_62_-_Usha_Aniruddha_Milan",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-10/Part-03/Chapter_62_-_Usha_Aniruddha_Milan.pdf"
+            },
+            {
+              "name": "Chapter_63_-_Banasur_aur_Bhagavan_Krishna_ka_Yuddha",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-10/Part-03/Chapter_63_-_Banasur_aur_Bhagavan_Krishna_ka_Yuddha.pdf"
+            },
+            {
+              "name": "Chapter_64_-_Raja_Nriga_ka_Uddhar",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-10/Part-03/Chapter_64_-_Raja_Nriga_ka_Uddhar.pdf"
+            },
+            {
+              "name": "Chapter_65_-_Balaram_ka_Vrindavan_Jana",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-10/Part-03/Chapter_65_-_Balaram_ka_Vrindavan_Jana.pdf"
+            },
+            {
+              "name": "Chapter_66_-_Paundrak_Chhadm_Vasudev",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-10/Part-03/Chapter_66_-_Paundrak_Chhadm_Vasudev.pdf"
+            },
+            {
+              "name": "Chapter_67_-_Balaram_dwara_Dvivid_Vanar_ka_Vadh",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-10/Part-03/Chapter_67_-_Balaram_dwara_Dvivid_Vanar_ka_Vadh.pdf"
+            },
+            {
+              "name": "Chapter_68_-_Samba_ka_Vivah",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-10/Part-03/Chapter_68_-_Samba_ka_Vivah.pdf"
+            },
+            {
+              "name": "Chapter_69_-_Narada_Muni_ka_Dwaraka_mai_Krishna_ke_Mahalon_ko_Dekhna",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-10/Part-03/Chapter_69_-_Narada_Muni_ka_Dwaraka_mai_Krishna_ke_Mahalon_ko_Dekhna.pdf"
+            },
+            {
+              "name": "Chapter_70_-_Bhagavan_Krishna_ki_Dainik_Dincharya",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-10/Part-04/Chapter_70_-_Bhagavan_Krishna_ki_Dainik_Dincharya.pdf"
+            },
+            {
+              "name": "Chapter_71_-_Bhagavan_ki_Indraprastha_Yatra",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-10/Part-04/Chapter_71_-_Bhagavan_ki_Indraprastha_Yatra.pdf"
+            },
+            {
+              "name": "Chapter_72_-_Jarasandh_Asur_ka_Vadh",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-10/Part-04/Chapter_72_-_Jarasandh_Asur_ka_Vadh.pdf"
+            },
+            {
+              "name": "Chapter_73_-_Bandhi_Griha_se_Chhudaye_gaye_Rajaon_ko_Krishna_dwara_aashirwad",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-10/Part-04/Chapter_73_-_Bandhi_Griha_se_Chhudaye_gaye_Rajaon_ko_Krishna_dwara_aashirwad.pdf"
+            },
+            {
+              "name": "Chapter_74_-_Rajsuya_Yagya_mai_Shisupal_ka_Uddhar",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-10/Part-04/Chapter_74_-_Rajsuya_Yagya_mai_Shisupal_ka_Uddhar.pdf"
+            },
+            {
+              "name": "Chapter_75_-_Duryodhana_ka_Manmardan",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-10/Part-04/Chapter_75_-_Duryodhana_ka_Manmardan.pdf"
+            },
+            {
+              "name": "Chapter_76_-_Shalva_tata_Vrishniyo_ke_Madhya_Yuddha",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-10/Part-04/Chapter_76_-_Shalva_tata_Vrishniyo_ke_Madhya_Yuddha.pdf"
+            },
+            {
+              "name": "Chapter_77_-_Krishna_dwara_Shalva_ka_Vadh",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-10/Part-04/Chapter_77_-_Krishna_dwara_Shalva_ka_Vadh.pdf"
+            },
+            {
+              "name": "Chapter_78_-_Dantivakra_Viduratha_aur_Romharshan_ka_Vadh",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-10/Part-04/Chapter_78_-_Dantivakra_Viduratha_aur_Romharshan_ka_Vadh.pdf"
+            },
+            {
+              "name": "Chapter_79_-_Bhagavan_Balaram_ki_Tirth_Yatra",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-10/Part-04/Chapter_79_-_Bhagavan_Balaram_ki_Tirth_Yatra.pdf"
+            },
+            {
+              "name": "Chapter_80_-_Dwaraka_mai_Sri_Krishna_ki_Sudama_Brahmana_se_Bhet",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-10/Part-04/Chapter_80_-_Dwaraka_mai_Sri_Krishna_ki_Sudama_Brahmana_se_Bhet.pdf"
+            },
+            {
+              "name": "Chapter_81_-_Bhagavan_dwara_Sudama_ko_Vardaan",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-10/Part-04/Chapter_81_-_Bhagavan_dwara_Sudama_ko_Vardaan.pdf"
+            },
+            {
+              "name": "Chapter_82_-_Vrindavan_Vashiyon_se_Krishna_tatha_Balaram_ki_Bhet",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-10/Part-04/Chapter_82_-_Vrindavan_Vashiyon_se_Krishna_tatha_Balaram_ki_Bhet.pdf"
+            },
+            {
+              "name": "Chapter_83_-_Krishna_ki_Raniyon_se_Draupadi_ki_Bhet",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-10/Part-04/Chapter_83_-_Krishna_ki_Raniyon_se_Draupadi_ki_Bhet.pdf"
+            },
+            {
+              "name": "Chapter_84_-_Kurukshetra_mai_Rishiyon_ke_Updesh",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-10/Part-04/Chapter_84_-_Kurukshetra_mai_Rishiyon_ke_Updesh.pdf"
+            },
+            {
+              "name": "Chapter_85_-_Vasudev_ko_updesh_aur_Devaki_Putron_ki_Vapasi",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-10/Part-04/Chapter_85_-_Vasudev_ko_updesh_aur_Devaki_Putron_ki_Vapasi.pdf"
+            },
+            {
+              "name": "Chapter_86_-_Arjuna_dwara_Shubhadra_ka_Apaharana_aur_Krishna_ka_Ashirwad",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-10/Part-04/Chapter_86_-_Arjuna_dwara_Shubhadra_ka_Apaharana_aur_Krishna_ka_Ashirwad.pdf"
+            },
+            {
+              "name": "Chapter_87_-_Sakshat_Vedon_dwara_Stuti",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-10/Part-04/Chapter_87_-_Sakshat_Vedon_dwara_Stuti.pdf"
+            },
+            {
+              "name": "Chapter_88_-_Vrikasur_se_Shivji_ki_Raksha",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-10/Part-04/Chapter_88_-_Vrikasur_se_Shivji_ki_Raksha.pdf"
+            },
+            {
+              "name": "Chapter_89_-_Krishna_tatha_Arjuna_dwara_Brahmana_Putro_ka_Vapas_laya_jana",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-10/Part-04/Chapter_89_-_Krishna_tatha_Arjuna_dwara_Brahmana_Putro_ka_Vapas_laya_jana.pdf"
+            },
+            {
+              "name": "Chapter_90_-_Bhagavan_Krishna_ki_Mahimaon_ka_Saransha",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-10/Part-04/Chapter_90_-_Bhagavan_Krishna_ki_Mahimaon_ka_Saransha.pdf"
+            }
+          ]
+        },
+        {
+          "name": "Canto 11",
+          "volumes": [
+            {
+              "name": "Chapter_01-Yaduvansh_ko_Shraap",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-11/Chapter_01-Yaduvansh_ko_Shraap.pdf"
+            },
+            {
+              "name": "Chapter_02-Navayogendraon_Maharaj_Nimi_ki_Bhet",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-11/Chapter_02-Navayogendraon_Maharaj_Nimi_ki_Bhet.pdf"
+            },
+            {
+              "name": "Chapter_03-_Maya_se_Mukti",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-11/Chapter_03-_Maya_se_Mukti.pdf"
+            },
+            {
+              "name": "Chapter_04_-_Nimi_se_Drumila_dwara_Avataron_ka_Varnan",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-11/Chapter_04_-_Nimi_se_Drumila_dwara_Avataron_ka_Varnan.pdf"
+            },
+            {
+              "name": "Chapter_05_-_Narada_dwara_vasudev_ki_di_gayi_shikshaon_ka_Samapan",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-11/Chapter_05_-_Narada_dwara_vasudev_ki_di_gayi_shikshaon_ka_Samapan.pdf"
+            },
+            {
+              "name": "Chapter_06_-_Yaduvansh_ka_Prabhash_Gaman",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-11/Chapter_06_-_Yaduvansh_ka_Prabhash_Gaman.pdf"
+            },
+            {
+              "name": "Chapter_07_-_Krishna_dwara_Uddhava_ko_Updesh",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-11/Chapter_07_-_Krishna_dwara_Uddhava_ko_Updesh.pdf"
+            },
+            {
+              "name": "Chapter_08_-_Pingala_ki_Katha",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-11/Chapter_08_-_Pingala_ki_Katha.pdf"
+            },
+            {
+              "name": "Chapter_09_-_Purna_Vairagya",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-11/Chapter_09_-_Purna_Vairagya.pdf"
+            },
+            {
+              "name": "Chapter_10_-_Sakam_Karma_ki_Prakruti",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-11/Chapter_10_-_Sakam_Karma_ki_Prakruti.pdf"
+            },
+            {
+              "name": "Chapter_11_-_Baddha_tatha_Mukta_Jivo_ki_Lakshan",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-11/Chapter_11_-_Baddha_tatha_Mukta_Jivo_ki_Lakshan.pdf"
+            },
+            {
+              "name": "Chapter_12_-_Vairagya_tatha_Gyan_se_Aage",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-11/Chapter_12_-_Vairagya_tatha_Gyan_se_Aage.pdf"
+            },
+            {
+              "name": "Chapter_13_-_Hamsavatar_dwara_brahma_putron_ke_Prashno_ke_Uttar",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-11/Chapter_13_-_Hamsavatar_dwara_brahma_putron_ke_Prashno_ke_Uttar.pdf"
+            },
+            {
+              "name": "Chapter_14_-_Krishna_dwara_Uddhava_se_yoga_Varnan",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-11/Chapter_14_-_Krishna_dwara_Uddhava_se_yoga_Varnan.pdf"
+            },
+            {
+              "name": "Chapter_15_-_Yoga_Siddhiyon_ka_Varnan",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-11/Chapter_15_-_Yoga_Siddhiyon_ka_Varnan.pdf"
+            },
+            {
+              "name": "Chapter_16_-_Bhagavan_ki_Vibhutiyan",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-11/Chapter_16_-_Bhagavan_ki_Vibhutiyan.pdf"
+            },
+            {
+              "name": "Chapter_17_-_Varnashrama_Pranali_ka_Varnan",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-11/Chapter_17_-_Varnashrama_Pranali_ka_Varnan.pdf"
+            },
+            {
+              "name": "Chapter_18_-_Varnashrama_Dharma_ka_Varnan",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-11/Chapter_18_-_Varnashrama_Dharma_ka_Varnan.pdf"
+            },
+            {
+              "name": "Chapter_19_-_Aadyatamik_gyan_ki_Siddhi",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-11/Chapter_19_-_Aadyatamik_gyan_ki_Siddhi.pdf"
+            },
+            {
+              "name": "Chapter_20_-_Shuddha_Bhakti_Gyan_aur_Vairagya_se_aage_nikal_jaati_hai",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-11/Chapter_20_-_Shuddha_Bhakti_Gyan_aur_Vairagya_se_aage_nikal_jaati_hai.pdf"
+            },
+            {
+              "name": "Chapter_21_-_Vedic_Path_ki_Vyakhya",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-11/Chapter_21_-_Vedic_Path_ki_Vyakhya.pdf"
+            },
+            {
+              "name": "Chapter_22_-_Bhautik_Shrusti_ke_Tattvon_ki_Ganana",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-11/Chapter_22_-_Bhautik_Shrusti_ke_Tattvon_ki_Ganana.pdf"
+            },
+            {
+              "name": "Chapter_23_-_Avanti_Brahmana_ke_Geet",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-11/Chapter_23_-_Avanti_Brahmana_ke_Geet.pdf"
+            },
+            {
+              "name": "Chapter_24_-_Sankhya_Darshan",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-11/Chapter_24_-_Sankhya_Darshan.pdf"
+            },
+            {
+              "name": "Chapter_25_-_Prakruti_ke_Teen_Guna_tatha_unse_Pare",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-11/Chapter_25_-_Prakruti_ke_Teen_Guna_tatha_unse_Pare.pdf"
+            },
+            {
+              "name": "Chapter_26_-_Aila_Geet",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-11/Chapter_26_-_Aila_Geet.pdf"
+            },
+            {
+              "name": "Chapter_27_-_Dev_Puja_vishyak_Sri_Krishna_ke_Aadesh",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-11/Chapter_27_-_Dev_Puja_vishyak_Sri_Krishna_ke_Aadesh.pdf"
+            },
+            {
+              "name": "Chapter_28_-_Gyan_Yoga",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-11/Chapter_28_-_Gyan_Yoga.pdf"
+            },
+            {
+              "name": "Chapter_29_-_Gyan_Yoga",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-11/Chapter_29_-_Gyan_Yoga.pdf"
+            },
+            {
+              "name": "Chapter_30_-_Yaduvansha_ka_Samhar",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-11/Chapter_30_-_Yaduvansha_ka_Samhar.pdf"
+            },
+            {
+              "name": "Chapter_31_-_Bhagavan_Sri_Krishna_ka_Antardhyan_Hona",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-11/Chapter_31_-_Bhagavan_Sri_Krishna_ka_Antardhyan_Hona.pdf"
+            }
+          ]
+        },
+        {
+          "name": "Canto 12",
+          "volumes": [
+            {
+              "name": "Chapter_01_-_Kaliyuga_ke_Patit_Vamsaj",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-12/Chapter_01_-_Kaliyuga_ke_Patit_Vamsaj.pdf"
+            },
+            {
+              "name": "Chapter_02_-_Kaliyuga_ke_Lakshan",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-12/Chapter_02_-_Kaliyuga_ke_Lakshan.pdf"
+            },
+            {
+              "name": "Chapter_03_-_Bhumi_Gita",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-12/Chapter_03_-_Bhumi_Gita.pdf"
+            },
+            {
+              "name": "Chapter_04_-_Brahmanda_ke_pralay_ki_chaar_kotiyan",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-12/Chapter_04_-_Brahmanda_ke_pralay_ki_chaar_kotiyan.pdf"
+            },
+            {
+              "name": "Chapter_05_-_Maharaj_Parikshit_ko_Shukadeva_Goswami_ka_Antim_Updesh",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-12/Chapter_05_-_Maharaj_Parikshit_ko_Shukadeva_Goswami_ka_Antim_Updesh.pdf"
+            },
+            {
+              "name": "Chapter_06_-_Maharaj_Parikshit_ka_Nidhan",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-12/Chapter_06_-_Maharaj_Parikshit_ka_Nidhan.pdf"
+            },
+            {
+              "name": "Chapter_07_-_Pauradik_Sahitya",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-12/Chapter_07_-_Pauradik_Sahitya.pdf"
+            },
+            {
+              "name": "Chapter_08_-_Markendya_Rishi_dwara_Nara-Narayan_ki_Stuti",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-12/Chapter_08_-_Markendya_Rishi_dwara_Nara-Narayan_ki_Stuti.pdf"
+            },
+            {
+              "name": "Chapter_09_-_Markendya_Rishi_ko_bhagavan_ki_mayashakti_ke_darshan",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-12/Chapter_09_-_Markendya_Rishi_ko_bhagavan_ki_mayashakti_ke_darshan.pdf"
+            },
+            {
+              "name": "Chapter_10_-_Shiv_tatha_Uma_dwara_Markaneya_Rishi_ka_gungaan",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-12/Chapter_10_-_Shiv_tatha_Uma_dwara_Markaneya_Rishi_ka_gungaan.pdf"
+            },
+            {
+              "name": "Chapter_11_-_Mahapurusha_ka_Sankshipt_Varnan",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-12/Chapter_11_-_Mahapurusha_ka_Sankshipt_Varnan.pdf"
+            },
+            {
+              "name": "Chapter_12_-_Srimad_Bhagavatam_ki_Sankshipt_Vishay_Suchi",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-12/Chapter_12_-_Srimad_Bhagavatam_ki_Sankshipt_Vishay_Suchi.pdf"
+            },
+            {
+              "name": "Chapter_13_-_Srimad_Bhagavatam_ki_Mahima",
+              "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_hindi/Canto-12/Chapter_13_-_Srimad_Bhagavatam_ki_Mahima.pdf"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "2tier": [
+    {
       "name": "Srimad Bhagavatam Delhi",
       "volumes": [
         {
-          "name": "Srimad Bhagavatam Delhi Volume 1",
+          "name": "Volume 1",
           "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_delhi/sb_delhi_vol_1.pdf"
         },
         {
-          "name": "Srimad Bhagavatam Delhi Volume 2",
+          "name": "Volume 2",
           "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_delhi/sb_delhi_vol_2.pdf"
         },
         {
-          "name": "Srimad Bhagavatam Delhi Volume 3",
+          "name": "Volume 3",
           "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/sb_delhi/sb_delhi_vol_3.pdf"
         }
       ]
@@ -229,7 +1701,11 @@
       ]
     }
   ],
-  "single-volume": [
+  "1tier": [
+    {
+      "name": "Vaishnava Etiquette",
+      "link": "https://raw.githubusercontent.com/byciitp/audios/master/books/Vaishnava_Etiquette_Manual.pdf"
+    },
     {
       "name": "Bhagavad-Gita As It Is Original 1972",
       "link": "http://prabhupadabooks.com/pdf/Bhagavad_gita-As_It_Is-Original_authorized_Macmillan_edition.pdf"
