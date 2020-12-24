@@ -110,3 +110,16 @@ html, body {
   margin-left: .1rem;
   margin-right: .1rem;
 }
+
+
+.carousel .carousel-inner .carousel-item img {
+      height: 400px;
+      width: auto;
+  }
+
+@media screen and (max-width: 500px) {
+  .carousel .carousel-inner .carousel-item img {
+      width: 100%;
+      height: 35vh;
+  }
+}

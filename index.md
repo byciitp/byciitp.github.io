@@ -7,7 +7,7 @@ location: home
 <div id="carouselExampleControls" class="carousel slide" data-ride="carousel" data-interval="3000">
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img class="d-block mx-auto img-fluid img-thumbnail" style="height: 52vh !important;" src="https://i.imgur.com/ktr72r7.jpg" alt="First slide">
+      <img class="d-block mx-auto img-fluid img-thumbnail" src="https://i.imgur.com/ktr72r7.jpg" alt="First slide">
       <div class="carousel-caption d-none d-md-block">
       <h5>...</h5>
       <p>...</p>
@@ -15,7 +15,7 @@ location: home
     </div>
     {% for image in site.data.images.home %}
     <div class="carousel-item" >
-      <img class="d-block mx-auto img-fluid img-thumbnail" style="height: 52vh !important;" src="{{ image.link }}" alt="First slide">
+      <img class="d-block mx-auto img-fluid img-thumbnail" src="{{ image.link }}" alt="slide">
       <div class="carousel-caption d-none d-md-block">
 	    <h5>...</h5>
 	    <p>...</p>
