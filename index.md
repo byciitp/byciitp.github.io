@@ -4,22 +4,22 @@ title: Bhaktivedanta Club IIT Patna
 location: home
 ---
 
-<div id="carouselExampleControls" class="carousel slide" data-ride="carousel" data-interval="3000">
+<div id="carouselExampleControls" class="carousel slide carousel-fade" data-ride="carousel" data-interval="3000">
   <div class="carousel-inner">
     <div class="carousel-item active">
       <img class="d-block mx-auto img-fluid img-thumbnail" src="https://i.imgur.com/ktr72r7.jpg" alt="First slide">
       <div class="carousel-caption d-none d-md-block">
-      <h5>...</h5>
-      <p>...</p>
-    </div>
+        <h5>...</h5>
+        <p>...</p>
+      </div>
     </div>
     {% for image in site.data.images.home %}
     <div class="carousel-item" >
       <img class="d-block mx-auto img-fluid img-thumbnail" src="{{ image.link }}" alt="slide">
-      <div class="carousel-caption d-none d-md-block">
-	    <h5>...</h5>
-	    <p>...</p>
-	  </div>
+      <div class="caption carousel-caption d-md-block">
+  	    <h4 style="color: #FFFFFF; font-style: italic;"> {{ image.title }} </h4>
+  	    <p style="color: #FFFFFF; font-family: Libre Baskerville;"> {{ image.subtitle }}</p>
+  	  </div>
     </div>
     {% endfor %}
   <a class="carousel-control-prev danger" href="#carouselExampleControls" role="button" data-slide="prev">

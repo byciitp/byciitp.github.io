@@ -1,16 +1,19 @@
 {
 	"home": [
 		{
-			"link": "https://i.imgur.com/OxMd5QS.jpg"
+			"link": "https://i.imgur.com/8SG0ZTn.jpg",
+			"title": "Free Computer Education",
+			"subtitle": "Education to Unpriviledged Students"
 		},
 		{
-			"link": "https://i.imgur.com/uTgglDL.jpg"
+			"link": "https://i.imgur.com/HTgcvQg.jpg",
+			"title": "Food For All",
+			"subtitle": "Distribution of Prasadam to everyone"
 		},
 		{
-			"link": "https://i.imgur.com/TMPo39M.jpg"
-		},
-		{
-			"link": "https://img.youtube.com/vi/lwJwPk7Tw-E/hqdefault.jpg"
+			"link": "https://i.imgur.com/ukeuGDc.jpg",
+			"title": "Lockdown Distribution",
+			"subtitle": "Grain Distribution during COVID-19 Lockdown"
 		}
 	],
 	"sravanam": [

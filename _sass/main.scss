@@ -113,13 +113,22 @@ html, body {
 
 
 .carousel .carousel-inner .carousel-item img {
-      height: 400px;
-      width: auto;
-  }
-
+    height: 400px;
+    width: auto;
+}
+.caption {
+  padding: 0; 
+  margin: 0 20%; 
+  font-family: 'Crimson Text', serif;
+  background: radial-gradient(rgba(0, 0, 0, 0.9), rgba(255, 255, 255, 0.01));
+}
 @media screen and (max-width: 500px) {
   .carousel .carousel-inner .carousel-item img {
       width: 100%;
       height: 35vh;
+  }
+
+  .caption {
+    margin: 0 0;
   }
 }
