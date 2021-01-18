@@ -10,7 +10,6 @@ html, body {
 }
 
 .container {
-  flex: 1 0 auto;
   color: #424242;
   padding: 100px auto;
   border-radius: 10px;
@@ -111,17 +110,18 @@ html, body {
   margin-right: .1rem;
 }
 
-
 .carousel .carousel-inner .carousel-item img {
     height: 400px;
     width: auto;
 }
+
 .caption {
   padding: 0; 
   margin: 0 20%; 
   font-family: 'Crimson Text', serif;
   background: radial-gradient(rgba(0, 0, 0, 0.9), rgba(255, 255, 255, 0.01));
 }
+
 @media screen and (max-width: 500px) {
   .carousel .carousel-inner .carousel-item img {
       width: 100%;
@@ -131,4 +131,22 @@ html, body {
   .caption {
     margin: 0 0;
   }
+}
+
+.rad {
+    border-radius: 10px ;
+    animation-duration: 2.5s;
+    animation-iteration-count: infinite;
+}
+
+.section {
+  margin: 10px 0;
+  padding: 10px;
+}
+
+.section-head {
+  padding-top: 50px;
+  text-align: center;
+  font-size: 4em;
+  font-weight: 100;
 }
