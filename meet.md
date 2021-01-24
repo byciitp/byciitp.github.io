@@ -29,12 +29,12 @@ permalink: /meet/
 
  <div class="col-lg-1 col-md-2 col-xs-2"></div>
 
- <div class="col-lg-2 col-md-4 col-xs-10">
-    <a href="https://us02web.zoom.us/j/88130280756?pwd=VlhqMG1qZGp5NTNSNXdGcGlVOW5Ldz09">
+  <div class="col-lg-2 col-md-4 col-xs-10">
+    <a href="https://us02web.zoom.us/j/83989746707?pwd=MHJibFhXZEpDTVNSZlJPOWlhOHJZUT09">
        <div class="card" style="width: 18rem;">
          <img class="card-img-top" src="https://i.imgur.com/TReQ58H.png" alt="Card image cap">
          <div class="card-body">
-           <h5 class="card-title">Sravanam</h5>
+           <h5 class="card-title">Evening Class</h5>
          </div>
        </div>
     </a>
@@ -71,21 +71,4 @@ permalink: /meet/
 
 <br>
 
-<div class="row">
- <div class="col-lg-1 col-md-2 col-xs-2"></div>
- <div class="col-lg-2 col-md-4 col-xs-10">
-    <a href="https://us02web.zoom.us/j/83989746707?pwd=MHJibFhXZEpDTVNSZlJPOWlhOHJZUT09">
-       <div class="card" style="width: 18rem;">
-         <img class="card-img-top" src="https://i.imgur.com/TReQ58H.png" alt="Card image cap">
-         <div class="card-body">
-           <h5 class="card-title">Evening Class</h5>
-         </div>
-       </div>
-    </a>
- </div>
-
- <div class="col-lg-1 col-md- col-xs"></div>
-
- 
-</div>
 <script type="text/javascript" src="../assets/js/meet.js" ></script>
