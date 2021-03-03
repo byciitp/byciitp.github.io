@@ -37,13 +37,15 @@ location: home
 	<p style="padding: 5% 10px;font-family: 'Lora', serif;font-size: 1.5rem;">By the mercy of Lord Sri Chaitanya Mahaprabhu and by the desire of Srila A.C. Bhaktivedanta Swami Prabhupada, Bhaktivedanta Club came into existence in 2009 to present the higher dimensional science of ancient India for awakening the proactive leadership quality among the students. Nowadays, modern youth do not know anything beyond the prime necessities of life, namely eating, sleeping, fearing, and sense gratification. Animal life is also based on these four principles. Hence there is neither happiness nor peace of mind. The Bhaktivedanta Club IIT Patna caters to a modern youth's needs synergizing the overall growth, both materially and spiritually. Yoga retreat camps, love feast programs, and intellectual lectures provide systematic teaching for personality development and Time Management. We also organize various spiritual trips, cultural programs, festivals, contests like Vedic quizzes, and coloring competitions. We organize food for life program for impoverished and unprivileged students outside the campus. We do Nagar Sankirtan and Book Distribution to create awareness of Hari Naam in the society. We also organize Rath Yatra festivals every year. The Bhaktivedanta Club invites everyone to participate and understand the real purpose of human life by practical engagement in devotional service. </p>
 </div>
 
-<div class="section-head">
-  <p>Events</p>
-</div>
 
 <div class="container scroll-animations">
 {% assign i = 0 %}
 {% for event in site.data.events.events %}
+<div class="section-head">
+  <p> {{ event.head }}</p>
+</div>
+
+{% for section in event.sections %}
 {% if i == 0 %}
   <div class="row animate__animated">
     <div class="col-lg-10 section">
@@ -52,7 +54,7 @@ location: home
           <div class="col-lg-4 col-md-4 col-sm-12">
               <div id="card-img-top carouselExampleControls" class="carousel slide carousel-fade" data-ride="carousel" data-interval="3000">
                 <div class="carousel-inner">
-                  {% for image in event.images %}
+                  {% for image in section.images %}
                   <div class="carousel-item {% if forloop.index == 1 %} active {% endif %}" >
                     <img style="height: 200px;" class="d-block px-auto mx-auto img-fluid card-img-top img-thumbnail" src="{{ image }}" alt="Card image cap">
                     <div class="carousel-caption d-none d-md-block">
@@ -74,9 +76,9 @@ location: home
           </div>
           <div class="col-lg-8 col-md-8 col-sm-12">
               <div class="card-body px-2">
-                  <h4 class="card-title">{{ event.title }}</h4>
-                  <p class="card-text">{{ event.description }}</p>
-                  <a href="{{ event.button.link }}" class="btn btn-primary">{{ event.button.label }}</a>
+                  <h4 class="card-title">{{ section.title }}</h4>
+                  <p class="card-text">{{ section.description }}</p>
+                  <a href="{{ section.button.link }}" class="btn btn-primary">{{ section.button.label }}</a>
               </div>
           </div>
         </div>
@@ -93,7 +95,7 @@ location: home
           <div class="col-lg-4 col-md-4 col-sm-12">
               <div id="card-img-top carouselExampleControls" class="carousel slide carousel-fade" data-ride="carousel" data-interval="3000">
                 <div class="carousel-inner">
-                  {% for image in event.images %}
+                  {% for image in section.images %}
                   <div class="carousel-item {% if forloop.index == 1 %} active {% endif %}" >
                     <img style="height: 200px;" class="d-block px-auto mx-auto img-fluid card-img-top img-thumbnail" src="{{ image }}" alt="Card image cap">
                     <div class="carousel-caption d-none d-md-block">
@@ -115,9 +117,9 @@ location: home
           </div>
           <div class="col-lg-8 col-md-8 col-sm-12">
               <div class="card-body px-2">
-                  <h4 class="card-title">{{ event.title }}</h4>
-                  <p class="card-text">{{ event.description }}</p>
-                  <a href="{{ event.button.link }}" class="btn btn-primary">{{ event.button.label }}</a>
+                  <h4 class="card-title">{{ section.title }}</h4>
+                  <p class="card-text">{{ section.description }}</p>
+                  <a href="{{ section.button.link }}" class="btn btn-primary">{{ section.button.label }}</a>
               </div>
           </div>
         </div>
@@ -131,6 +133,7 @@ location: home
 {% assign i = i | plus:1 %}
 {% assign i = i | modulo:2 %}
 
+{% endfor %}
 {% endfor %}
 </div>
 

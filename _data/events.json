@@ -1,60 +1,69 @@
 {
-	"events": [
-		{
-			"title": "Food For All",
-			"images": [
-				"https://i.imgur.com/HTgcvQg.jpg",
-				"https://i.imgur.com/5HH2NRm.png",
-				"https://i.imgur.com/ukeuGDc.jpg",
-				"https://i.imgur.com/1ddmZfX.jpg",
-				"https://i.imgur.com/FFd6aze.jpg"				
-			],
-			"description": "Distribution of sanctified and nutritious meal to underprivileged school children from near by villages alongwith teaching and awareness by various activities.",
-			"button": {
-				"link": "",
-				"label": ""
-			}
-		},
-		{
-			"title": "Yoga Retreat Camp",
-			"images": [
-				"https://i.imgur.com/oAlD2D0.jpg",
-				"https://i.imgur.com/v4wvil0.jpg",
-				"https://i.imgur.com/iktZQ3f.jpg",
-				"https://i.imgur.com/DgfJv5m.jpg",
-				"https://i.imgur.com/kh7E3Ok.jpg"
-			],
-			"description": "Making us bodily, mentally and spiritually healthy.",
-			"button": {
-				"link": "",
-				"label": ""
-			}
-		},
-		{
-			"title": "Free Education",
-			"images": [
-				"https://i.imgur.com/8SG0ZTn.jpg",
-				"https://i.imgur.com/TxUINAF.jpg"
-			],
-			"description": "Free Computer certified course for Class 9 to 12 students of underprivileged girls of Bihta and near by villages.",
-			"button": {
-				"link": "",
-				"label": ""
-			}
-		},
-		{
-			"title": "Book Distribution",
-			"images": [
-				"https://i.imgur.com/jmS5K2w.jpg",
-				"https://i.imgur.com/CZzVdfB.jpg",
-				"https://i.imgur.com/xZj4RvZ.jpg",
-				"https://i.imgur.com/vxcJvtU.jpg"
-			],
-			"description": "Distribution of Prabhupada's books in hostels, vilages and cities.",
-			"button": {
-				"link": "",
-				"label": ""
-			}
-		}
-	]
+  "events": [
+    {
+      "head": "Events",
+      "sections": [
+        {
+          "title": "Food For All",
+          "images": [
+            "https://i.imgur.com/HTgcvQg.jpg",
+            "https://i.imgur.com/5HH2NRm.png",
+            "https://i.imgur.com/ukeuGDc.jpg",
+            "https://i.imgur.com/1ddmZfX.jpg",
+            "https://i.imgur.com/FFd6aze.jpg"
+          ],
+          "description": "Distribution of sanctified and nutritious meal to underprivileged school children from near by villages alongwith teaching and awareness by various activities.",
+          "button": {
+            "link": "",
+            "label": ""
+          }
+        },
+        {
+          "title": "Yoga Retreat Camp",
+          "images": [
+            "https://i.imgur.com/oAlD2D0.jpg",
+            "https://i.imgur.com/v4wvil0.jpg",
+            "https://i.imgur.com/iktZQ3f.jpg",
+            "https://i.imgur.com/DgfJv5m.jpg",
+            "https://i.imgur.com/kh7E3Ok.jpg"
+          ],
+          "description": "Making us bodily, mentally and spiritually healthy.",
+          "button": {
+            "link": "",
+            "label": ""
+          }
+        },
+        {
+          "title": "Free Education",
+          "images": [
+            "https://i.imgur.com/8SG0ZTn.jpg",
+            "https://i.imgur.com/TxUINAF.jpg"
+          ],
+          "description": "Free Computer certified course for Class 9 to 12 students of underprivileged girls of Bihta and near by villages.",
+          "button": {
+            "link": "",
+            "label": ""
+          }
+        },
+        {
+          "title": "Book Distribution",
+          "images": [
+            "https://i.imgur.com/jmS5K2w.jpg",
+            "https://i.imgur.com/CZzVdfB.jpg",
+            "https://i.imgur.com/xZj4RvZ.jpg",
+            "https://i.imgur.com/vxcJvtU.jpg"
+          ],
+          "description": "Distribution of Prabhupada's books in hostels, vilages and cities.",
+          "button": {
+            "link": "",
+            "label": ""
+          }
+        }
+      ]
+    },
+    {
+    	"head": "",
+    	"sections": []
+    }
+  ]
 }
