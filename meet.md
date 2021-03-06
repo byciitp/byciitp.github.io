@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: header
 title: Bhaktivedanta Samagam
 permalink: /meet/
 ---
