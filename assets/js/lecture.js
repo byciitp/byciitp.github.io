@@ -4,8 +4,7 @@ var playing;
 var RAMAYANA_LOADED = false;
 
 var setListeners = function() {
-		plays = document.getElementsByClassName("plays");
-		console.log("hello");		
+		plays = document.getElementsByClassName("plays");		
 		var player = document.getElementById("audio_player");
 		player.style.display = "block";
 		
@@ -15,6 +14,7 @@ var setListeners = function() {
 				{
 					player.pause();
 					player.src = "https://raw.githubusercontent.com/byciitp/audios/master/" + this.id;
+					console.log(player.src);
 					this.classList.add("active");
 					if (playing)
 						playing.classList.remove("active");
