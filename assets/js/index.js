@@ -17,7 +17,6 @@ $(document).ready(function() {
   $(window).scroll(function() {
     $('.scroll-animations .row').each(function() {
       if (isScrolledIntoView(this) === true) {
-        console.log("hello");
         $(this).addClass('animate__fadeInLeft');
       }
     });

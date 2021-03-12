@@ -44,12 +44,13 @@ location: home
 
 
 <div class="container scroll-animations">
-{% assign i = 0 %}
+{% assign index = 0 %}
 {% for event in site.data.events.events %}
 <div class="section-head">
   <p> {{ event.head }}</p>
 </div>
 
+{% assign i = 0 %}
 {% for section in event.sections %}
 {% if i == 0 %}
   <div class="row animate__animated">
@@ -57,7 +58,7 @@ location: home
       <div class="card">
         <div class="row ">
           <div class="col-lg-4 col-md-4 col-sm-12">
-              <div id="card-img-top carouselExampleControls" class="carousel slide carousel-fade" data-ride="carousel" data-interval="3000">
+              <div id="carouselExampleControls{{ forloop.index }}" class="card-img-top carousel slide carousel-fade" data-ride="carousel" data-interval="3000">
                 <div class="carousel-inner">
                   {% for image in section.images %}
                   <div class="carousel-item {% if forloop.index == 1 %} active {% endif %}" >
@@ -68,11 +69,11 @@ location: home
                     </div>
                   </div>
                   {% endfor %}
-                  <a class="carousel-control-prev danger" href="#carouselExampleControls" role="button" data-slide="prev">
+                  <a class="carousel-control-prev danger" href="#carouselExampleControls{{ forloop.index }}" role="button" data-slide="prev">
                     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
                     <span class="sr-only">Previous</span>
                   </a>
-                  <a class="carousel-control-next danger" href="#carouselExampleControls" role="button" data-slide="next">
+                  <a class="carousel-control-next danger" href="#carouselExampleControls{{ forloop.index }}" role="button" data-slide="next">
                     <span class="carousel-control-next-icon" aria-hidden="true"></span>
                     <span class="sr-only">Next</span>
                   </a>
@@ -98,7 +99,7 @@ location: home
       <div class="card">
         <div class="row ">
           <div class="col-lg-4 col-md-4 col-sm-12">
-              <div id="card-img-top carouselExampleControls" class="carousel slide carousel-fade" data-ride="carousel" data-interval="3000">
+              <div id="carouselExampleControls{{ forloop.index }}" class="card-img-top carousel slide carousel-fade" data-ride="carousel" data-interval="3000">
                 <div class="carousel-inner">
                   {% for image in section.images %}
                   <div class="carousel-item {% if forloop.index == 1 %} active {% endif %}" >
@@ -109,11 +110,11 @@ location: home
                     </div>
                   </div>
                   {% endfor %}
-                  <a class="carousel-control-prev danger" href="#carouselExampleControls" role="button" data-slide="prev">
+                  <a class="carousel-control-prev danger" href="#carouselExampleControls{{ forloop.index }}" role="button" data-slide="prev">
                     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
                     <span class="sr-only">Previous</span>
                   </a>
-                  <a class="carousel-control-next danger" href="#carouselExampleControls" role="button" data-slide="next">
+                  <a class="carousel-control-next danger" href="#carouselExampleControls{{ forloop.index }}" role="button" data-slide="next">
                     <span class="carousel-control-next-icon" aria-hidden="true"></span>
                     <span class="sr-only">Next</span>
                   </a>
@@ -134,9 +135,11 @@ location: home
 
 {% endif %}
   <br>
-
+{{i}}
 {% assign i = i | plus:1 %}
 {% assign i = i | modulo:2 %}
+
+{% assign index = index | plus:1 %}
 
 {% endfor %}
 {% endfor %}
