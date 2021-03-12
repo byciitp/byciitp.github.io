@@ -135,7 +135,7 @@ location: home
 
 {% endif %}
   <br>
-{{i}}
+  
 {% assign i = i | plus:1 %}
 {% assign i = i | modulo:2 %}
 
