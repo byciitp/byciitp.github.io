@@ -4,7 +4,7 @@ layout: default
 
 
 <header class="text-center">
-	<nav class="navbar fixed-top navbar-expand-lg navbar-light bg-light">
+	<nav class="navbar fixed-top navbar-expand-lg navbar-dark navbar-default main-theme">
 	  <a class="navbar-brand" href="{% if page.location == 'home' %} # {% else %} https://byciitp.github.io {% endif %}">BVC</a>
 	  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
 	    <span class="navbar-toggler-icon"></span>
@@ -29,14 +29,14 @@ layout: default
 	        </div>
 	      </li>
 	      <li class="nav-item">
-	        <a class="nav-link text-primary font-weight-bold" href="../register">Sravanam</a>
+	        <a class="nav-link font-weight-bold" href="../register">Sravanam</a>
 	      </li>
 	    </ul>
 
       	<div style="text-align: center;">
       		<ul class="navbar-nav mr-auto">
       			<li class="nav-item active">
-      				<a class="nav-link active-link" href="../meet"><img style="width: 30px; height: 30px;" src="https://i.imgur.com/TReQ58H.png"> Meet</a>
+      				<a class="nav-link active-link" href="../meet"><img style="width: 30px; height: 30px;" src="https://i.imgur.com/TReQ58H.png"> &nbsp Meet</a>
       			</li>
 	      		<li class="nav-item active">
 			      	<audio controls id="audio_player" style="display: none;" src="">
@@ -56,9 +56,9 @@ layout: default
 
 {{ content }}
 
-<footer style="margin-top: 50px;background: #37474F">
-	<div class="footer-content">
-		<div class="row p-3">
+<footer style="margin-top: 50px; padding-top: 50px;" class="main-theme">
+	<div class="container footer-content">
+		<div class="row">
 			<div class="col-lg-6">
 				<img class="rounded-circle mx-auto d-block" width="40%" src="../assets/images/hhgkgm.jpeg">
 				<p style="font-size: 1rem">HH Gopal Krishna Goswami Maharaj</p>
@@ -86,6 +86,7 @@ layout: default
 				<p style="font-size: 1rem">HG Sadhu Raman Das</p>
 			</div>
 		</div>
+
 	</div>
 	<div class="my_icon"> 
             <a target="_blank" rel="noopener noreferrer" class="icon" title="Youtube" href="https://youtube.com/Bhaktivedantaclubiitpatna">

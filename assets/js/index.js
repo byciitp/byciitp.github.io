@@ -1,6 +1,6 @@
 setTimeout(function () {
   $('.loader_bg').fadeToggle();
-}, 1000);
+}, 800);
 
 $(document).ready(function() {
   // Check if element is scrolled into view

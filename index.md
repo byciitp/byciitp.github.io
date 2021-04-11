@@ -47,7 +47,7 @@ location: home
 {% assign index = 0 %}
 {% for event in site.data.events.events %}
 <div class="section-head">
-  <p> {{ event.head }}</p>
+  <p class="theme-content"> {{ event.head }}</p>
 </div>
 
 {% assign i = 0 %}
