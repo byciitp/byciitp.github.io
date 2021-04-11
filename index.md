@@ -39,7 +39,7 @@ location: home
 </div>
 
 <div class="container">
-	<p style="padding: 5% 10px;font-family: 'Lora', serif;font-size: 1.5rem;">By the mercy of Lord Sri Chaitanya Mahaprabhu and by the desire of Srila A.C. Bhaktivedanta Swami Prabhupada, Bhaktivedanta Club came into existence in 2009 to present the higher dimensional science of ancient India for awakening the proactive leadership quality among the students. Nowadays, modern youth do not know anything beyond the prime necessities of life, namely eating, sleeping, fearing, and sense gratification. Animal life is also based on these four principles. Hence there is neither happiness nor peace of mind. The Bhaktivedanta Club IIT Patna caters to a modern youth's needs synergizing the overall growth, both materially and spiritually. Yoga retreat camps, love feast programs, and intellectual lectures provide systematic teaching for personality development and Time Management. We also organize various spiritual trips, cultural programs, festivals, contests like Vedic quizzes, and coloring competitions. We organize food for life program for impoverished and unprivileged students outside the campus. We do Nagar Sankirtan and Book Distribution to create awareness of Hari Naam in the society. We also organize Rath Yatra festivals every year. The Bhaktivedanta Club invites everyone to participate and understand the real purpose of human life by practical engagement in devotional service. </p>
+	<p style="padding: 5% 10px; font-family: 'Lora', serif;font-size: 1.5rem; margin-bottom: 1rem; font-weight: 400;">By the mercy of Lord Sri Chaitanya Mahaprabhu and by the desire of Srila A.C. Bhaktivedanta Swami Prabhupada, Bhaktivedanta Club came into existence in 2009 to present the higher dimensional science of ancient India for awakening the proactive leadership quality among the students. Nowadays, modern youth do not know anything beyond the prime necessities of life, namely eating, sleeping, fearing, and sense gratification. Animal life is also based on these four principles. Hence there is neither happiness nor peace of mind. The Bhaktivedanta Club IIT Patna caters to a modern youth's needs synergizing the overall growth, both materially and spiritually. Yoga retreat camps, love feast programs, and intellectual lectures provide systematic teaching for personality development and Time Management. We also organize various spiritual trips, cultural programs, festivals, contests like Vedic quizzes, and coloring competitions. We organize food for life program for impoverished and unprivileged students outside the campus. We do Nagar Sankirtan and Book Distribution to create awareness of Hari Naam in the society. We also organize Rath Yatra festivals every year. The Bhaktivedanta Club invites everyone to participate and understand the real purpose of human life by practical engagement in devotional service. </p>
 </div>
 
 
@@ -82,8 +82,8 @@ location: home
           </div>
           <div class="col-lg-8 col-md-8 col-sm-12">
               <div class="card-body px-2">
-                  <h4 class="card-title">{{ section.title }}</h4>
-                  <p class="card-text">{{ section.description }}</p>
+                  <h4 style="font-family: Libre Baskerville; color: #37474F; font-weight: 400;" class="card-title">{{ section.title }}</h4>
+                  <p style="font-family: Merriweather, serif; font-size:1.1rem; color: #455A64;" class="card-text">{{ section.description }}</p>
                   <a href="{{ section.button.link }}" class="btn btn-primary">{{ section.button.label }}</a>
               </div>
           </div>
@@ -123,8 +123,8 @@ location: home
           </div>
           <div class="col-lg-8 col-md-8 col-sm-12">
               <div class="card-body px-2">
-                  <h4 class="card-title">{{ section.title }}</h4>
-                  <p class="card-text">{{ section.description }}</p>
+                  <h4 style="font-family: Libre Baskerville; color: #37474F; font-weight: 400;" class="card-title">{{ section.title }}</h4>
+                  <p style="font-family: Merriweather, serif; font-size:1.1rem; color: #455A64;" class="card-text">{{ section.description }}</p>
                   <a href="{{ section.button.link }}" class="btn btn-primary">{{ section.button.label }}</a>
               </div>
           </div>

@@ -15,13 +15,15 @@ layout: default
 	      <li class="nav-item active">
 	        <a class="nav-link" href = "{% if page.location == 'home' %} # {% else %} https://byciitp.github.io {% endif %} ">Home <span class="sr-only">(current)</span></a>
 	      </li>
+	      <li><a class="nav-link active" href="../audio">Audios</a></li>
+	      <li><a class="nav-link active" href="../books">Books</a></li>
 	      <li class="nav-item dropdown">
 	        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
 	          Resources
 	        </a>
 	        <div class="dropdown-menu" style="text-align: center;" aria-labelledby="navbarDropdown">
-	          <a class="dropdown-item" href="../audio">Audios</a>
-	          <a class="dropdown-item" href="../books">Books</a>
+	          <!-- <a class="dropdown-item" href="../audio">Audios</a>
+	          <a class="dropdown-item" href="../books">Books</a> -->
 	          <a class="dropdown-item" href="../newsletter">Newsletter</a>
 	          <!-- <a class="dropdown-item" href="https://byciitp.github.io/ppts">Presentations</a> -->
 	          <!-- <div class="dropdown-divider"></div> -->
@@ -49,14 +51,14 @@ layout: default
 	</nav>
 
 	<div style="margin-top: 90px; margin-bottom: 30px;">
-		<h1 style="" class="display-4" >Bhaktivedanta Club IIT Patna</h1>
+		<h1 style="font-family: 'Lora', Arial, serif" class="display-4" >Bhaktivedanta Club IIT Patna</h1>
 		<p class="text-muted font-italic">Service To Humanity, Spirituality and Character</p>
 	</div>
 </header>
 
 {{ content }}
 
-<footer style="margin-top: 50px; padding-top: 50px;" class="main-theme">
+<footer style="margin-top: 50px; padding: auto 50px; font-family: 'Merriweather, serif;" class="main-theme">
 	<div class="container footer-content">
 		<div class="row">
 			<div class="col-lg-6">
@@ -88,7 +90,8 @@ layout: default
 		</div>
 
 	</div>
-	<div class="my_icon"> 
+	<div class="my_icon">
+			<p>FOLLOW US ON </p> 
             <a target="_blank" rel="noopener noreferrer" class="icon" title="Youtube" href="https://youtube.com/Bhaktivedantaclubiitpatna">
                 <i class="fab fa-youtube"></i>
             </a>
