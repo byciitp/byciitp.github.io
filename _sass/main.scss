@@ -1,4 +1,3 @@
-
 .with-chevron[aria-expanded='true'] i {
   display: block;
   transform: rotate(180deg) !important;
@@ -44,6 +43,9 @@ html, body {
      width: 180px;
 }
 
+#title-large {
+  display: none;
+}
 
 
 .container {
@@ -159,17 +161,6 @@ html, body {
   background: radial-gradient(rgba(0, 0, 0, 0.9), rgba(255, 255, 255, 0.01));
 }
 
-@media screen and (max-width: 500px) {
-  .carousel .carousel-inner .carousel-item img {
-      width: 100%;
-      height: 35vh;
-  }
-
-  .caption {
-    margin: 0 0;
-  }
-}
-
 .rad {
     border-radius: 10px ;
     animation-duration: 2.5s;
@@ -201,3 +192,39 @@ html, body {
   font-weight: 400;
 }
 
+/*
+// Small devices (landscape phones, 576px and up)
+@media (min-width: 576px) { 
+  #title {
+    font-size: 10px;
+    margin-left: 15%; 
+    margin-top: 20px;
+    margin-right: 10%;  
+    padding-bottom: 20px;
+  }  
+}
+
+// Medium devices (tablets, 768px and up)
+@media (min-width: 768px) { 
+  #title {
+    font-size: 20px;
+    padding-top: 50px; 
+
+  }
+}
+
+// Large devices (desktops, 992px and up)
+@media (min-width: 992px) { 
+  #title {
+    font-size: 20px;
+    padding-top: 50px; 
+  }
+}
+
+// Extra large devices (large desktops, 1200px and up)
+@media (min-width: 1200px) { 
+  #title {
+    font-size: 20px;
+    padding-top: 50px; 
+  }
+}*/

@@ -1,6 +1,11 @@
-setTimeout(function () {
-  $('.loader_bg').fadeToggle();
-}, 800);
+$.when(
+  setTimeout(function () {
+    $('.loader_bg').fadeToggle();
+  }, 800))
+.then(function() {
+  $('#main-title').addClass("animate__animated animate__backInDown");
+  $('#down-button').addClass("animate__animated animate__bounceInDown")
+});
 
 $(document).ready(function() {
   // Check if element is scrolled into view

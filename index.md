@@ -8,33 +8,44 @@ location: home
     <div class="loader1"><img src="assets/images/loading.gif" alt="#" /></div>
 </div>
 
+<div style="font-size: 14px; margin-top: 20px; margin-bottom: 30px; text-align: center;" id="title-large" >
+  <p style="font-family: 'Lora', Arial, serif; font-size: 3em; font-style: bold; margin-bottom: 2px;">Bhaktivedanta Club IIT Patna</p>
+  <p class="text-muted font-italic">Service To Humanity, Spirituality and Character</p>
+</div>
 
-<div id="carouselExampleControls" class="carousel slide carousel-fade" data-ride="carousel" data-interval="3000">
+<div class="">
+  <div id="carouselExampleControls" class="carousel1 carousel slide" data-ride="carousel">
   <div class="carousel-inner">
-    <div class="carousel-item active">
-      <img class="d-block mx-auto img-fluid img-thumbnail" src="https://i.imgur.com/ktr72r7.jpg" alt="First slide">
+    <div class="carousel-item carousel-item1 active">
+      <img class="d-block w-100 img-fluid" src="https://i.imgur.com/ktr72r7.jpg" alt="First slide">
       <div class="carousel-caption d-none d-md-block">
-        <h5>...</h5>
-        <p>...</p>
+        <p id="down-button" style="font-size: 5rem; padding-top: 10px;"><i class="fas fa-chevron-down"></i></p>
       </div>
     </div>
     {% for image in site.data.images.home %}
-    <div class="carousel-item" >
-      <img class="d-block mx-auto img-fluid img-thumbnail" src="{{ image.link }}" alt="slide">
+    <div class="carousel-item carousel-item1" >
+      <img class="d-block w-100 img-fluid" src="{{ image.link }}" alt="slide">
       <div class="caption carousel-caption d-md-block">
-  	    <h4 style="color: #FFFFFF; font-style: italic;"> {{ image.title }} </h4>
-  	    <p style="color: #FFFFFF; font-family: Libre Baskerville;"> {{ image.subtitle }}</p>
-  	  </div>
+        <h3 style="color: #FFFFFF; font-style: italic;"> {{ image.title }} </h3>
+        <p style="color: #FFFFFF; font-family: Libre Baskerville;"> {{ image.subtitle }}</p>
+      </div>
     </div>
     {% endfor %}
-  <a class="carousel-control-prev danger" href="#carouselExampleControls" role="button" data-slide="prev">
-    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-    <span class="sr-only">Previous</span>
-  </a>
-  <a class="carousel-control-next danger" href="#carouselExampleControls" role="button" data-slide="next">
-    <span class="carousel-control-next-icon" aria-hidden="true"></span>
-    <span class="sr-only">Next</span>
-  </a>
+    <a class="carousel-control-prev danger" href="#carouselExampleControls" role="button" data-slide="prev">
+      <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+      <span class="sr-only">Previous</span>
+    </a>
+    <a class="carousel-control-next danger" href="#carouselExampleControls" role="button" data-slide="next">
+      <span class="carousel-control-next-icon" aria-hidden="true"></span>
+      <span class="sr-only">Next</span>
+    </a>
+    </div>
+  </div>
+  <div class="card-img-overlay" style="text-align: center;" id="title-overlay">
+      <div style="background: radial-gradient(white, rgb(200, 200, 200, 0));">
+        <p id="main-title" style="font-family: 'Lora', Arial, serif; font-size: 3em; font-style: bold; margin-bottom: 2px; " class=" " >Bhaktivedanta Club IIT Patna</p>
+        <p id="title-caption" style="font-size: 1.2em; background: radial-gradient(white, rgb(10, 10, 10, 0));" class="text-muted font-italic">Service To Humanity, Spirituality and Character</p>
+      </div>
   </div>
 </div>
 
@@ -64,8 +75,8 @@ location: home
                   <div class="carousel-item {% if forloop.index == 1 %} active {% endif %}" >
                     <img style="height: 200px;" class="d-block px-auto mx-auto img-fluid card-img-top img-thumbnail" src="{{ image }}" alt="Card image cap">
                     <div class="carousel-caption d-none d-md-block">
-                      <h5>...</h5>
-                      <p>...</p>
+                      <h5></h5>
+                      <p></p>
                     </div>
                   </div>
                   {% endfor %}
@@ -105,8 +116,8 @@ location: home
                   <div class="carousel-item {% if forloop.index == 1 %} active {% endif %}" >
                     <img style="height: 200px;" class="d-block px-auto mx-auto img-fluid card-img-top img-thumbnail" src="{{ image }}" alt="Card image cap">
                     <div class="carousel-caption d-none d-md-block">
-                      <h5>...</h5>
-                      <p>...</p>
+                      <h5></h5>
+                      <p></p>
                     </div>
                   </div>
                   {% endfor %}

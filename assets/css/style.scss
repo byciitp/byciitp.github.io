@@ -1,3 +1,58 @@
 ---
 ---
 @import "main";
+
+@media (min-width: 250px) {
+  #title-large {
+    display: block;
+  }
+
+  #title-overlay {
+    display: none;
+  }
+
+  .caption {
+    margin: 0 0;
+  }
+
+  .carousel1 .carousel-item {
+    height: 300px;
+  }
+
+  .carousel-item1 img {
+      position: absolute;
+      top: 0;
+      left: 0;
+      min-height: 200px;
+  }
+}
+
+@media (min-width: 992px) {
+  #title-overlay {
+    font-size: 17px; 
+    padding-bottom: 10px;
+    top: 40px;
+    margin-left: 300px;
+    margin-right: 300px;
+  }
+
+  #title-large {
+    display: none;
+  }
+
+  #title-overlay {
+    display: block;
+  }
+
+  .carousel1 .carousel-item {
+    height: 600px;
+  }
+
+  .carousel-item1 img {
+      position: absolute;
+      top: 10px;
+      object-fit: fill;
+      left: 0;
+      min-height: 600px;
+  }
+}
