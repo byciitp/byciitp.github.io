@@ -49,4 +49,4 @@ permalink: /audio/
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.3.1/js/bootstrap.bundle.min.js"></script>
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-migrate/3.3.1/jquery-migrate.min.js"></script>
 
-<script type="text/javascript" src="../assets/js/lecture.js"></script>
+<script type="text/javascript" src="../assets/js/audio.js"></script>

@@ -34,3 +34,5 @@ xhr.onload = function(){
 };
 
 xhr.send();
+
+$("#title-large").css("display", "block");

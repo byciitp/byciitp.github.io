@@ -8,11 +8,6 @@ location: home
     <div class="loader1"><img src="assets/images/loading.gif" alt="#" /></div>
 </div>
 
-<div style="font-size: 14px; margin-top: 20px; margin-bottom: 30px; text-align: center;" id="title-large" >
-  <p style="font-family: 'Lora', Arial, serif; font-size: 3em; font-style: bold; margin-bottom: 2px;">Bhaktivedanta Club IIT Patna</p>
-  <p class="text-muted font-italic">Service To Humanity, Spirituality and Character</p>
-</div>
-
 <div class="">
   <div id="carouselExampleControls" class="carousel1 carousel slide" data-ride="carousel">
   <div class="carousel-inner">

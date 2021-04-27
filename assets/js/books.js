@@ -13,3 +13,5 @@ $('.dropdown-menu a.dropdown-toggle').on('click', function(e) {
 
   return false;
 });
+
+$("#title-large").css("display", "block");

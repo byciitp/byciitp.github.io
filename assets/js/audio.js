@@ -27,3 +27,5 @@ var setListeners = function() {
 
 
 setListeners();
+
+$("#title-large").css("display", "block");
