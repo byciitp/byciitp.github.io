@@ -22,7 +22,8 @@ $(document).ready(function() {
   $(window).scroll(function() {
     $('.scroll-animations .row').each(function() {
       if (isScrolledIntoView(this) === true) {
-        $(this).addClass('animate__fadeInLeft');
+        $(this).css("opacity", "1");
+        $(this).addClass('animate__zoomIn');
       }
     });
   });

@@ -11,19 +11,29 @@
     display: none;
   }
 
-  .caption {
-    margin: 0 0;
-  }
-
   .carousel1 .carousel-item {
     height: 300px;
   }
 
   .carousel-item1 img {
       position: absolute;
+      object-fit: contain;
       top: 0;
       left: 0;
-      min-height: 200px;
+      min-height: 300px;
+  }
+  
+  .caption {
+    font-size: 7pt;
+  }
+
+  #content {
+    font-size: 0.85rem;
+    padding: 5% 20px;
+  }
+
+  .theme-content {
+    font-size: 3rem;
   }
 }
 
@@ -51,8 +61,22 @@
   .carousel-item1 img {
       position: absolute;
       top: 10px;
-      object-fit: fill;
+      object-fit: contain;
       left: 0;
       min-height: 600px;
+  }
+
+  .caption {
+    margin: 0 10% !important; 
+    font-size: 1rem;
+  }
+
+  #content {
+    font-size: 1.4rem;
+    padding: 5% 50px;
+  }
+
+  .theme-content {
+    font-size: 4rem;
   }
 }

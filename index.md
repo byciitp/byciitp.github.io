@@ -21,8 +21,8 @@ location: home
     <div class="carousel-item carousel-item1" >
       <img class="d-block w-100 img-fluid" src="{{ image.link }}" alt="slide">
       <div class="caption carousel-caption d-md-block">
-        <h3 style="color: #FFFFFF; font-style: italic;"> {{ image.title }} </h3>
-        <p style="color: #FFFFFF; font-family: Libre Baskerville;"> {{ image.subtitle }}</p>
+        <div style="color: #FFFFFF; font-style: italic; font-size: 2em;"> {{ image.title }} </div>
+        <div style="color: #FFFFFF; font-family: Libre Baskerville; font-size: 1em;"> {{ image.subtitle }}</div>
       </div>
     </div>
     {% endfor %}
@@ -44,11 +44,6 @@ location: home
   </div>
 </div>
 
-<div class="container">
-	<p style="padding: 5% 10px; font-family: 'Lora', serif;font-size: 1.5rem; margin-bottom: 1rem; font-weight: 400;">By the mercy of Lord Sri Chaitanya Mahaprabhu and by the desire of Srila A.C. Bhaktivedanta Swami Prabhupada, Bhaktivedanta Club came into existence in 2009 to present the higher dimensional science of ancient India for awakening the proactive leadership quality among the students. Nowadays, modern youth do not know anything beyond the prime necessities of life, namely eating, sleeping, fearing, and sense gratification. Animal life is also based on these four principles. Hence there is neither happiness nor peace of mind. The Bhaktivedanta Club IIT Patna caters to a modern youth's needs synergizing the overall growth, both materially and spiritually. Yoga retreat camps, love feast programs, and intellectual lectures provide systematic teaching for personality development and Time Management. We also organize various spiritual trips, cultural programs, festivals, contests like Vedic quizzes, and coloring competitions. We organize food for life program for impoverished and unprivileged students outside the campus. We do Nagar Sankirtan and Book Distribution to create awareness of Hari Naam in the society. We also organize Rath Yatra festivals every year. The Bhaktivedanta Club invites everyone to participate and understand the real purpose of human life by practical engagement in devotional service. </p>
-</div>
-
-
 <div class="container scroll-animations">
 {% assign index = 0 %}
 {% for event in site.data.events.events %}
@@ -61,7 +56,7 @@ location: home
 {% if i == 0 %}
   <div class="row animate__animated">
     <div class="col-lg-10 section">
-      <div class="card">
+      <div class="card home-card">
         <div class="row ">
           <div class="col-lg-4 col-md-4 col-sm-12">
               <div id="carouselExampleControls{{ forloop.index }}" class="card-img-top carousel slide carousel-fade" data-ride="carousel" data-interval="3000">
@@ -102,7 +97,7 @@ location: home
   <div class="row animate__animated">
     <div class="col-lg-2"></div>
     <div class="col-lg-10 section">
-      <div class="card">
+      <div class="card home-card">
         <div class="row ">
           <div class="col-lg-4 col-md-4 col-sm-12">
               <div id="carouselExampleControls{{ forloop.index }}" class="card-img-top carousel slide carousel-fade" data-ride="carousel" data-interval="3000">
@@ -150,6 +145,14 @@ location: home
 {% endfor %}
 {% endfor %}
 </div>
+
+<section id="content" class="parallax">
+  <h1 style="text-align: center;">About</h1>
+  <br>
+  <p style="font-size: 0.9em; line-height: 1.7em; -webkit-text-stroke-width: 0.2px; -webkit-text-stroke-color: white;">
+    By the mercy of Lord Sri Chaitanya Mahaprabhu and by the desire of Srila A.C. Bhaktivedanta Swami Prabhupada, Bhaktivedanta Club came into existence in 2009 to present the higher dimensional science of ancient India for awakening the proactive leadership quality among the students. Nowadays, modern youth do not know anything beyond the prime necessities of life, namely eating, sleeping, fearing, and sense gratification. Animal life is also based on these four principles. Hence there is neither happiness nor peace of mind. The Bhaktivedanta Club IIT Patna caters to a modern youth's needs synergizing the overall growth, both materially and spiritually. Yoga retreat camps, love feast programs, and intellectual lectures provide systematic teaching for personality development and Time Management. We also organize various spiritual trips, cultural programs, festivals, contests like Vedic quizzes, and coloring competitions. We organize food for life program for impoverished and unprivileged students outside the campus. We do Nagar Sankirtan and Book Distribution to create awareness of Hari Naam in the society. We also organize Rath Yatra festivals every year. The Bhaktivedanta Club invites everyone to participate and understand the real purpose of human life by practical engagement in devotional service.
+  </p>
+</section>
 
 <script type="text/javascript" src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.3.1/js/bootstrap.bundle.min.js"></script>

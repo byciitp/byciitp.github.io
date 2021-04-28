@@ -1,3 +1,5 @@
+document.getElementById("title-large").style.display = "block";
+
 var xhr = new XMLHttpRequest();
 var link = "#";
 xhr.open("GET", "https://worldtimeapi.org/api/timezone/Asia/Kolkata", true);
@@ -34,5 +36,3 @@ xhr.onload = function(){
 };
 
 xhr.send();
-
-$("#title-large").css("display", "block");
