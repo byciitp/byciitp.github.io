@@ -35,6 +35,14 @@
   .theme-content {
     font-size: 3rem;
   }
+
+  .section-head {
+    font-size: 2rem;
+  }
+
+  #prabhupada-image {
+    display: none !important;
+  }
 }
 
 @media (min-width: 992px) {
@@ -78,5 +86,17 @@
 
   .theme-content {
     font-size: 4rem;
+  }
+
+  #prabhupada-image {
+    display: block !important;  
+  }
+
+  #daily-quote {
+    margin-right: 100px !important;
+  }
+
+  .section-head {
+    font-size: 3rem;
   }
 }

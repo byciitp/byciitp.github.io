@@ -147,12 +147,30 @@ location: home
 </div>
 
 <section id="content" class="parallax">
-  <h1 style="text-align: center;">About</h1>
+  <h1 class="section-head" style="text-align: center;">About</h1>
   <br>
   <p style="font-size: 0.9em; line-height: 1.7em; -webkit-text-stroke-width: 0.2px; -webkit-text-stroke-color: white;">
     By the mercy of Lord Sri Chaitanya Mahaprabhu and by the desire of Srila A.C. Bhaktivedanta Swami Prabhupada, Bhaktivedanta Club came into existence in 2009 to present the higher dimensional science of ancient India for awakening the proactive leadership quality among the students. Nowadays, modern youth do not know anything beyond the prime necessities of life, namely eating, sleeping, fearing, and sense gratification. Animal life is also based on these four principles. Hence there is neither happiness nor peace of mind. The Bhaktivedanta Club IIT Patna caters to a modern youth's needs synergizing the overall growth, both materially and spiritually. Yoga retreat camps, love feast programs, and intellectual lectures provide systematic teaching for personality development and Time Management. We also organize various spiritual trips, cultural programs, festivals, contests like Vedic quizzes, and coloring competitions. We organize food for life program for impoverished and unprivileged students outside the campus. We do Nagar Sankirtan and Book Distribution to create awareness of Hari Naam in the society. We also organize Rath Yatra festivals every year. The Bhaktivedanta Club invites everyone to participate and understand the real purpose of human life by practical engagement in devotional service.
   </p>
 </section>
+
+
+<section id="prabhupada-quote" class="parallax">
+  <p style="">
+    <h1 class="section-head" style="color: #fff; text-align: center; padding: 50px;">Prabhupada's Daily Quote</h1>
+    <div class="">
+      <div class="row">
+          <div class="col-lg-6">
+            <img id="prabhupada-image" class="rounded-circle d-block mx-auto px-auto img-fluid img-thumbnail" src="https://i.pinimg.com/564x/98/99/70/9899706d22e3546d298c68db35a9b280.jpg" alt="Prabhupada's Daily Quote">
+          </div>
+          <div class="col-lg-6">
+            <img id="daily-quote" class="d-block px-auto mx-auto img-fluid img-thumbnail" src="" alt="Prabhupada's Daily Quote">
+          </div>
+      </div>
+    </div>
+  </p>
+</section>
+
 
 <script type="text/javascript" src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.3.1/js/bootstrap.bundle.min.js"></script>
