@@ -238,3 +238,11 @@ a:hover {
   background-image: url('https://cdn.tovp.org/wp-content/uploads/2015/02/tovp_drawing_news.jpg');
   padding: 20px;
 }
+
+audio { 
+  background-color: #004D40;
+  width: 100%; 
+  box-shadow: 5px 5px 20px rgba(0,0, 0, 0.4);
+  border-radius: 90px;
+  transform: scale(0.95);
+}
