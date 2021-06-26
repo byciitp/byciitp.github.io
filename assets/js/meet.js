@@ -1,38 +1,51 @@
 document.getElementById("title-large").style.display = "block";
 
-var xhr = new XMLHttpRequest();
-var link = "#";
-xhr.open("GET", "https://worldtimeapi.org/api/timezone/Asia/Kolkata", true);
-xhr.onload = function(){
-	var response = JSON.parse(this.response);
-	console.log(response);
+setTimeout(function() {}, 1);
 
-	var dow = parseInt(response.day_of_week);
-	var hh = parseFloat(response.datetime.substring(11, 13)); 
-	var mm = parseFloat(response.datetime.substring(14, 16));
+let urlString = String(window.location)
+let paramString = urlString.split('?')[1];
+let urlParams = new URLSearchParams(paramString);
+  
+ if (urlParams.get('m') != null) {
+ 	console.log(urlParams.get('m'))
 
-	var choose = function() {
-		console.log("No Meeting");
-		document.getElementById("redirect").style.visibility = "hidden";
-		
-		document.getElementById("message").innerText = "Please Choose your meeting...";
+ 	// load the required meeting
+ 	load(urlParams.get('m'))
+ }
+ else {
+ 	// time dependent loading
+	autoLoad(); 	
+ }
+
+ function autoLoad() {
+ 	var d = new Date();
+
+ 	var hh = d.getHours();
+ 	if (hh <= 12) {
+ 		// morning
+ 		load("morning")
+ 	}
+ 	else {
+ 		// evening
+ 		load("evening")
+ 	}
+ }
+
+function load(meeting) {
+
+	var xhr = new XMLHttpRequest();
+	xhr.open("GET", "https://api.github.com/gists/a0b70dc932973d4114596f7bcf701542", true);
+	xhr.onload = function(){
+		// console.log(this.response)
+		var response = JSON.parse(this.response);
+		// console.log(response);
+
+		var content = JSON.parse(response["files"]["content.json"]["content"]);
+		var link = content["meetings"][meeting]["link"]
+
+		console.log(link)
+		window.location.replace(link);
 	}
 
-	var time = hh + mm/60;
-	console.log(time);
-	if (time >= 5 && time <= 10) {
-		console.log("Morning");
-		link = "https://us02web.zoom.us/j/83058286607?pwd=c2dDbTdWLzlvb3ZVdFlxcXBHdThZdz09";
-	}
-	else if (time >= 18.5 && time <= 21) {
-		console.log("Evening");
-		link = "https://us02web.zoom.us/j/83989746707?pwd=MHJibFhXZEpDTVNSZlJPOWlhOHJZUT09";
-	}
-	else
-		choose();
-
-
-	window.location.replace(link);
-};
-
-xhr.send();
+	xhr.send();
+}
