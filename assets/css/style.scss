@@ -44,6 +44,14 @@
   #prabhupada-image {
     display: none !important;
   }
+
+  #event-desc {
+      font-size: 1rem;
+  }
+
+  .event-carousel-image {
+      max-height: 25vh;
+  }
 }
 
 @media (min-width: 992px) {
@@ -99,5 +107,13 @@
 
   .section-head {
     font-size: 3rem;
+  }
+
+  #event-desc {
+      font-size: 1.2rem;
+  }
+
+  .event-carousel-image {
+      max-height: 53vh;
   }
 }
