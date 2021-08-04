@@ -18,7 +18,7 @@ permalink: /register/
           <p>...</p>
         </div>
       </div>
-      {% for image in site.data.images.personality-development %}
+      {% for image in site.data.images.register %}
       <div class="carousel-item" >
         <img class="event-carousel-image d-block  mx-auto img-fluid" style="height: 50% !important;" src="{{ image.link }}" alt="First slide">
         <div class="carousel-caption d-none d-md-block">
@@ -44,20 +44,16 @@ permalink: /register/
         <br>
         <br>
         <div id="event-desc" class="card-text" style="color: #263238; font-family: 'Dancing Script', cursive; font-size: 1.2rem;">
-          <p>Would you wish to know the secret of maintaining a ceaseless state of peace and contentment throughout life...</p>
-
-          <p>Would you like to learn how to control your stress and anxiety of mind...</p>
-
-          <p>Do you wish to cultivate an endearing personality and establish yourself as a valuable member of society...</p>
-
-          <p>This is your moment of glory...</p>
-
-          <p>Bhaktivedanta Club, IIT Patna cordially invites you to an exciting life-changing online lecture series titled "How to be Productive at IIT Patna using these Simple Habits".  This course will introduce the practical skills to assist you in establishing your own unique identity. This session will also help you to cope up with the stress and anxiety that the present pandemic situation has created. </p>
+          <p>With greater obligations, we strive to strike a balance between many elements of our lives and our desire to be productive at all times, and our efficiency is defined by our regular habits. The first principle of habit is to bring our ideas, words, and actions into alignment with our goals. The Bhaktivedanta Club IIT Patna kindly welcomes you to an exciting life-changing online lecture titled "How to be Productive at IIT Patna with these Simple Habits."</p>
+          <br>
+          <p>"Habit leads to character and character determines our destiny."</p>
+           <p>"Success is the product of regular habits."</p>
+           <br>
+          <p>Very often wrong habits repeat themselves again and again, not because we don't want to change, but because we don't know how to change. In this session, we will give you a deep insight into how habits are formed and introduce you to the right system for the transformation of habits. We will talk about some simple habits with practical examples which can lead to our overall development and make our life sublime.</p>
         </div>
       </div>
+      </div>
     </div>
-  </div>
-  
 
   <div id="register" class="col-lg-7 col-sm-12 col-xs-12">
      <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdw5-jpnqJMOMUOwmwOjFyKyDzvS59c23k4EqVlh9geceIl8Q/viewform?embedded=true" scrolling="no" width="100%" height="1500vh" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
