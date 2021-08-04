@@ -1,7 +1,7 @@
 ---
 layout: header
 title: Registration
-permalink: /register/
+permalink: /sravanam/register/
 ---
 
 
