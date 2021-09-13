@@ -11,7 +11,7 @@ permalink: /radhastami/
 <div style="margin: 5%" class="row">
   <div class="col-lg-1 col-sm-12 col-xs-12"></div>
   <div class="col-lg-4 col-sm-12 col-xs-12">
-   	<img class="thumbnail" src="https://i.imgur.com/z6dtfNx.jpg" style="width:100%;"/>
+   	<img id="main-image" class="thumbnail" src="https://i.imgur.com/z6dtfNx.jpg" style="width:100%;"/>
    </div>
   
 
@@ -23,11 +23,14 @@ permalink: /radhastami/
     </h2></a>
 
     <p class="content">The story is of when Nanda Baba and mother Yashoda lived in Nandgaon, and Vrishbhanu and mother kirtida Lived in Barsana. Both families were very close and intimate friends of each other. Both the couples were not blessed with a child at that time. So, Nandbaba and Maharaj vrishbhanu decided to settle at the bank of the holy river Yamuna. Yamuna Ji is very loving and kind. So, on staying close to her at the bank of river Yamuna, we will unquestionably be blessed with the child. So, in this way, Nandbaba got settled at the sacred land of Gokul and Maharaj Vrishabhanu at Rawal.
-
+<br>
+<br>
 Later, Krishna appeared on Ashtami tithi of Bhadrapada month of Shukla Paksha. We celebrate that momentous day as Janmashtami. On Ashtami tithi of Bhadrapada month Vrishabhanu Maharaj went to take a dip at the pond during dawn which is known as Arunodaya Bela he noticed a dazzling light. That gratifying light was pleasing his eyes. When Sri Vrishabhanu went near that light, he saw those golden light rays coming from a glaring lotus. When he went close by, he noticed that the sparkling light was not coming from that bright golden lotus. It was coming from the utmost beautiful girl present inside it.
-
+<br>
+<br>
 On watching that girl, Vrishabhanu Maharaj’s love strings were overflowing. Brahma Ji appeared at that time, and one prophecy occurred.
-
+<br>
+<br>
 Prophecy – You did severe penance in previous births to get the internal potency of Supreme Lord Krishna in the form of a daughter. </p>
 
     <a><h2 class="sub-head">
@@ -62,12 +65,17 @@ Hey Sakhi, it’s time to appear on the earth. Radharani answered that if Sri Vr
     	Real Purpose of Human Life
     </h2></a>
     <p class="content">The main aim of our life is to surrender unto the Supreme Lord Sri Krishna’s lotus feet. Therefore, we should have dedication, concentration, determination to serve Lord Krishna and the best example is Radharani. Lord Sri Krishna himself came to this world 500 years ago to show the love and devotion of Radharani to people. To spread it, Sri Krishna appeared as Sri Chaitanya Mahaprabhu and propagate Harinam sankirtan.
-
+<br>
+<br>
 According to Srimad Bhagavatam, in Kaliyuga, the best and easiest way to uplift humankind is Harinam sankirtan.
-
+<br>
+<br>
 So, In this Radha Ashtami, let’s get a unique darshan of Sri Krishna and Srimati Radharani. Along with it, adopt the maha-mantra which is itself given by the lord as an essential part of our life.
+<img src="https://i.imgur.com/OqzQyM2.jpg" style="width: 100%; margin-top: 20px; margin-bottom: 20px;"/>
+<br>
 	There is nothing more important and influential than this maha-mantra given by Supreme Lord Sri Krishna itself. And to spread it for the benefit of people, He came to this world.
-
+<br>
+<br>
 So, let’s chant the Hare Krishna maha-mantra on this Radha Ashtami to get the blessings of the most loving, tender-hearted Radharani.
  </p>
    
