@@ -1,0 +1,58 @@
+.head {
+	font-family: 'Lora';
+	padding-bottom: 2%;
+	padding: 2%;
+	color: #212121;
+}
+
+.head1 {
+	color: #FF6D00;
+	font-size: 5rem;
+}
+
+.head2 {
+	font-size: 3rem;
+}
+
+img {
+	position: -webkit-sticky;
+	position: sticky;
+	top: 20px;
+}
+
+.sub-head {
+	font-weight: 400;
+	margin-left: 10%;
+	margin-right: 10%;
+	font-family: 'Lora';
+	margin-top: 4%;
+	margin-bottom: 2%;
+	color: #E65100;
+}
+
+.content {
+	margin-left: 10%;
+	margin-right: 10%;
+	color: #37474F;
+	font-family: 'Libre Baskerville';
+}
+
+@media (max-width: 900px) {
+	.head1 {
+		font-size: 3rem;
+	}
+
+	.head2 {
+		font-size: 2rem;
+	}
+	.sub-head {
+		margin-right: 2%;
+		margin-left: 2%;
+	}
+
+	.content {
+		margin-right: 2%;
+		margin-left: 2%;
+	}
+
+}
