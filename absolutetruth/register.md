@@ -44,7 +44,7 @@ permalink: /absolute-truth/
         <br>
         <br>
         <div id="event-desc" class="card-text" style="color: #263238; font-family: 'Dancing Script', cursive; font-size: 1.2rem;">
-          <p>Bhaktivedanta Club, IIT Patna cordially invites you to an enlightening online lecture series titled "Aspects of Absolute Truth".This subject is founded on the absolute science known as Life Science, which answers all of your mind-boggling questions. This course will introduce the practical skills to assist you in establishing your own unique identity. This session will also help you to cope up with the stress and anxiety that the present pandemic situation has created. </p>
+          <p>Bhaktivedanta Club, IIT Patna cordially invites you to an enlightening online lecture series titled "Aspects of Absolute Truth".</p>
         </div>
       </div>
     </div>
