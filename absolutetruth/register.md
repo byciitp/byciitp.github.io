@@ -12,13 +12,13 @@ permalink: /absolute-truth/
   <div id="card-img-top carouselExampleControls" class="carousel slide" data-ride="carousel" data-interval="3000">
     <div class="carousel-inner">
       <div class="carousel-item active">
-        <img class="event-carousel-image d-block w-100 mx-auto img-fluid" style="height: 50% !important;" src="https://i.imgur.com/olAiOKq.jpg" alt="First slide">
+        <img class="event-carousel-image d-block w-100 mx-auto img-fluid" style="height: 50% !important;" src="https://i.imgur.com/X9roSXB.jpg" alt="First slide">
         <div class="carousel-caption d-none d-md-block">
           <h5>...</h5>
           <p>...</p>
         </div>
       </div>
-      {% for image in site.data.images.absolute-truth %}
+      <!-- {% for image in site.data.images.absolute-truth %}
       <div class="carousel-item" >
         <img class="event-carousel-image d-block  mx-auto img-fluid" style="height: 50% !important;" src="{{ image.link }}" alt="First slide">
         <div class="carousel-caption d-none d-md-block">
@@ -26,7 +26,7 @@ permalink: /absolute-truth/
           <p>...</p>
         </div>
       </div>
-      {% endfor %}
+      {% endfor %} -->
       <a class="carousel-control-prev danger" href="#carouselExampleControls" role="button" data-slide="prev">
         <span class="carousel-control-prev-icon" aria-hidden="true"></span>
         <span class="sr-only">Previous</span>
@@ -44,7 +44,10 @@ permalink: /absolute-truth/
         <br>
         <br>
         <div id="event-desc" class="card-text" style="color: #263238; font-family: 'Dancing Script', cursive; font-size: 1.2rem;">
-          <p>Bhaktivedanta Club, IIT Patna cordially invites you to an enlightening online lecture series titled "Aspects of Absolute Truth".</p>
+          <p>Though modern science has made many unimaginable advancements like gene therapy and artificial intelligence, there are some subtle aspects of life that haven't been successfully dealt with. There are some unsolved problems and mysteries which seem beyond the limits of material science and technology, therefore addressing them becomes very important. For example, Can we build a conscious machine? Why are we suffering? What will happen after death? What should be the goal of life? </p>
+          <br>
+          <p>
+          The list of such intriguing questions is endless, and all efforts should be put into finding answers to these fundamental questions. These questions have been elaborately discussed and answered in our scriptures, our Vedas, and the Bhagavad Gita. To provide you with an opportunity for such interesting inquiries and to introduce you to the unexplored eternal dimension of life, we bring to you, a super informative and interactive lecture series on “5 Aspects of Absolute Truth”. </p>
         </div>
       </div>
     </div>
