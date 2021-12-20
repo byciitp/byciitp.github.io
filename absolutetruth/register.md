@@ -39,7 +39,7 @@ permalink: /absolute-truth/
   </div>
       <!-- <img class="card-img-top" src="https://i.imgur.com/uTgglDL.jpg" alt="Sravanam Image"> -->
       <div class="card-body">
-        <h5 class="card-title text-warning h2" style="font-family: 'Pacifico', cursive;">Aspects of Absolute Truth</h5>
+        <h5 class="card-title text-warning h2" style="font-family: 'Pacifico', cursive;">5 Aspects of Absolute Truth</h5>
         <a href="#register" class="btn btn-primary">Register</a>
         <br>
         <br>
