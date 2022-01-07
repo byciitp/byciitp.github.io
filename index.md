@@ -9,17 +9,17 @@ location: home
 </div>
 
 <div class="">
-  <div id="carouselExampleControls" class="carousel1 carousel slide" data-ride="carousel">
+  <div id="carouselExampleControls" class="carousel1 carousel slide" data-ride="carousel" data-interval="200000">
   <div class="carousel-inner">
     <div class="carousel-item carousel-item1 active">
-      <img class="d-block w-100 img-fluid" src="https://i.imgur.com/ktr72r7.jpg" alt="First slide">
+      <img class="carousel-img" src="https://i.imgur.com/ktr72r7.jpg" alt="First slide">
       <div class="carousel-caption d-none d-md-block">
         <p id="down-button" style="font-size: 5rem; padding-top: 10px;"><i class="fas fa-chevron-down"></i></p>
       </div>
     </div>
     {% for image in site.data.images.home %}
     <div class="carousel-item carousel-item1" >
-      <img class="d-block w-100 img-fluid" src="{{ image.link }}" alt="slide">
+      <img class="carousel-img" src="{{ image.link }}" alt="slide">
       <div class="caption carousel-caption d-md-block">
         <div style="color: #FFFFFF; font-style: italic; font-size: 2em;"> {{ image.title }} </div>
         <div style="color: #FFFFFF; font-family: Libre Baskerville; font-size: 1em;"> {{ image.subtitle }}</div>
