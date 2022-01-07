@@ -9,7 +9,7 @@ location: home
 </div>
 
 <div class="">
-  <div id="carouselExampleControls" class="carousel1 carousel slide" data-ride="carousel" data-interval="200000">
+  <div id="carouselExampleControls" class="carousel1 carousel slide" data-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item carousel-item1 active">
       <img class="carousel-img" src="https://i.imgur.com/ktr72r7.jpg" alt="First slide">
