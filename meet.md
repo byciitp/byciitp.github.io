@@ -27,46 +27,20 @@ permalink: /meet/
 
 <div class="row">
 
- <div class="col-lg-1 col-md-2 col-xs-2"></div>
+ <div class="col-lg-3 col-md-3 col-xs-2"></div>
 
-  <div class="col-lg-2 col-md-4 col-xs-10">
-    <a href="https://us02web.zoom.us/j/83989746707?pwd=MHJibFhXZEpDTVNSZlJPOWlhOHJZUT09">
+  <div class="col-lg-6 col-md-6 col-xs-10">
+    <a href="https://iitk-ac-in.zoom.us/j/94367582718?pwd=RDhkc1k5QWxpM2U0QnBXK25BMVp0dz09">
        <div class="card" style="width: 18rem;">
          <img class="card-img-top" src="https://i.imgur.com/TReQ58H.png" alt="Card image cap">
          <div class="card-body">
-           <h5 class="card-title">Evening Class</h5>
+           <h5 class="card-title">BVC meeting</h5>
          </div>
        </div>
     </a>
  </div>
 
- <div class="col-lg-1 col-md-2 col-xs-2"></div>
-
- <div class="col-lg-2 col-md-4 col-xs-10">
-    <a href="https://us02web.zoom.us/j/84013662651?pwd=TW1qL0RpbTh2bXBWa2lZM2M4TVVzdz09">
-       <div class="card" style="width: 18rem;">
-         <img class="card-img-top" src="https://i.imgur.com/TReQ58H.png" alt="Card image cap">
-         <div class="card-body">
-           <h5 class="card-title">Iskcon Youth Forum</h5>
-         </div>
-       </div>
-    </a>
- </div>
-
- <div class="col-lg-1 col-md-2 col-xs-2"></div>
-
- <div class="col-lg-2 col-md-4 col-xs-10">
-    <a href="https://us02web.zoom.us/j/83058286607?pwd=c2dDbTdWLzlvb3ZVdFlxcXBHdThZdz09">
-       <div class="card" style="width: 18rem;">
-         <img class="card-img-top" src="https://i.imgur.com/TReQ58H.png" alt="Card image cap">
-         <div class="card-body">
-           <h5 class="card-title">Morning Class</h5>
-         </div>
-       </div>
-    </a>
- </div>
-
- <div class="col-lg-1 col-md-2 col-xs-2"></div>
+ <div class="col-lg-3 col-md-3 col-xs-2"></div>
 </div>
 
 <br>
