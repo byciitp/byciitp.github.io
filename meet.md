@@ -30,7 +30,7 @@ permalink: /meet/
  <div class="col-lg-3 col-md-3 col-xs-2"></div>
 
   <div class="col-lg-6 col-md-6 col-xs-10">
-    <a href="https://iitk-ac-in.zoom.us/j/94367582718?pwd=RDhkc1k5QWxpM2U0QnBXK25BMVp0dz09">
+    <a href="https://us02web.zoom.us/j/83989746707?pwd=MHJibFhXZEpDTVNSZlJPOWlhOHJZUT09">
        <div class="card" style="width: 18rem;">
          <img class="card-img-top" src="https://i.imgur.com/TReQ58H.png" alt="Card image cap">
          <div class="card-body">
