@@ -1758,126 +1758,157 @@
   "1tier": [
     {
       "name": "Bhagavad-gita_As It Is",
+      "image_link": "https://i.imgur.com/l06UvyK.jpg",
       "link": "https://raw.githubusercontent.com/byciitp/books/master/books/Bhagavad-gita_As_It_Is.pdf"
     },
     {
       "name": "Bhagavad-Gita As It Is Original 1972",
+      "image_link":  "https://i.imgur.com/fH0qK3b.jpg",
       "link": "http://prabhupadabooks.com/pdf/Bhagavad_gita-As_It_Is-Original_authorized_Macmillan_edition.pdf"
     },
     {
       "name": "Beyond Birth and Death Original 1974 Edition",
+      "image_link":  "https://i.imgur.com/rn778G6.jpg",
       "link": "https://raw.githubusercontent.com/byciitp/books/master/books/Beyond_Birth_and_Death-Original_1974_edition.pdf"
     },
     {
       "name": "Dialectic Spiritualism A Vedic View on Western Philosophy",
+      "image_link":  "https://i.imgur.com/obO8JPl.jpg",
       "link": "https://raw.githubusercontent.com/byciitp/books/master/books/Dialectic_Spiritualism_A_Vedic_View_on_Western_Philosophy.pdf"
     },
     {
       "name": "Easy Journey to Other Planets Original India SP edition",
+      "image_link":  "https://i.imgur.com/LcdAefo.jpg",
       "link": "https://raw.githubusercontent.com/byciitp/books/master/books/Easy_Journey_to_Other_Planets_Original_India_SP_edition.pdf"
     },
     {
       "name": "Easy-Journey to Other Planets 1977 Scanned edition",
+      "image_link":  "https://i.imgur.com/AKqGzjR.jpg",
       "link": "https://raw.githubusercontent.com/byciitp/books/master/books/Easy-Journey_to_Other_Planets_1977_Scanned_edition.pdf"
     },
     {
       "name": "Elevation to Krsna Consciousness 1973",
-      "link": "https://raw.githubusercontent.com/byciitp/books/master/books/Elevation_to_Krsna_Consciousness_1973_SCAN.pdf"
+      "image_link":  "https://i.imgur.com/cdAsePY.jpg",
+      "link": "https://raw.githubusercontent.com/byciitp/books/master/books/Elevation_to_Krsna_Consciousness_1973.pdf"
     },
     {
       "name": "Krsna Consciousness The Matchless Gift Original 1974",
+      "image_link":  "https://i.imgur.com/TJrOco3.jpg",
       "link": "https://raw.githubusercontent.com/byciitp/books/master/books/Krsna_Consciousness_The_Matchless_Gift_Original_1974.pdf"
     },
     {
-      "name": "Light Of Bhagawata Gita",
+      "name": "Light Of Bhagavata Gita",
+      "image_link":  "https://i.imgur.com/Lc8BOel.jpg",
       "link": "https://raw.githubusercontent.com/byciitp/books/master/books/Light_Of_Bhagawata_Gita.pdf"
     },
     {
       "name": "On Chanting the Hare Krsna Mantra-Original booklet",
+      "image_link":  "https://i.imgur.com/uRiGFTV.jpg",
       "link": "https://raw.githubusercontent.com/byciitp/books/master/books/On_Chanting_the_Hare_Krsna_Mantra-Original_booklet.pdf"
     },
     {
       "name": "On the Way to Krsna 1973 book",
+      "image_link":  "https://i.imgur.com/JSenRXR.jpg",
       "link": "https://raw.githubusercontent.com/byciitp/books/master/books/On_the_Way_to_Krsna_1973_book.pdf"
     },
     {
       "name": "Perfect Questions Perfect Answers Original 1977 Edition",
+      "image_link":  "https://i.imgur.com/10WHbSf.jpg",
       "link": "https://raw.githubusercontent.com/byciitp/books/master/books/Perfect_Questions_Perfect_Answers_Original_1977_Edition.pdf"
     },
     {
       "name": "Raja-Vidya The King of Knowledge Original 1973",
+      "image_link":  "https://i.imgur.com/ipx5LeP.jpg",
       "link": "https://raw.githubusercontent.com/byciitp/books/master/books/Raja-Vidya_The_King_of_Knowledge_Original_1973.pdf"
     },
     {
       "name": "Science of Self Realization 1977",
+      "image_link":  "https://i.imgur.com/epqm5aL.jpg",
       "link": "https://raw.githubusercontent.com/byciitp/books/master/books/Science_of_Self_Realization_1977.pdf"
     },
     {
       "name": "Songs of Vaishnav Acharyas",
+      "image_link":  "https://i.imgur.com/SEFW3Zl.jpg",
       "link": "https://raw.githubusercontent.com/byciitp/books/master/books/Songs_of_Vaishnav_Acharyas.pdf"
     },
     {
       "name": "Sri Isopanisad original 1969 edition",
+      "image_link":  "https://i.imgur.com/8NpOlh8.jpg",
       "link": "https://raw.githubusercontent.com/byciitp/books/master/books/Sri_Isopanisad_original_1969_edition.pdf"
     },
     {
       "name": "Teachings of Lord Chaitanya original 1968",
+      "image_link":  "https://i.imgur.com/BBycHSB.jpg",
       "link": "https://raw.githubusercontent.com/byciitp/books/master/books/Teachings_of_Lord_Chaitanya_original_1968.pdf"
     },
     {
       "name": "Teachings Of Lord Kapila",
+      "image_link":  "https://i.imgur.com/JXhiJ3x.jpg",
       "link": "https://raw.githubusercontent.com/byciitp/books/master/books/Teachings_Of_Lord_Kapila.pdf"
     },
     {
       "name": "Teachings Of Queen Kunti",
+      "image_link":  "https://i.imgur.com/iDBHZzg.jpg",
       "link": "https://raw.githubusercontent.com/byciitp/books/master/books/Teachings_Of_Queen_Kunti.pdf"
     },
     {
       "name": "The Hare Krsna Cookbook 1972",
+      "image_link":  "https://i.imgur.com/pldtRwm.jpg",
       "link": "https://raw.githubusercontent.com/byciitp/books/master/books/The_Hare_Krsna_Cookbook_1972.pdf"
     },
     {
-      "name": "The Krishna Consciousness Movement is Authorized 1",
+      "name": "The Krishna Consciousness Movement is Authorized",
+      "image_link":  "https://i.imgur.com/jZAUjQ1.jpg",
       "link": "https://raw.githubusercontent.com/byciitp/books/master/books/The-Krishna-Consciousness-Movement-is-Authorized-1.pdf"
     },
     {
       "name": "The Krsna Consciousness Handbook-1970",
+      "image_link":  "https://i.imgur.com/UJwZaTV.jpg",
       "link": "https://raw.githubusercontent.com/byciitp/books/master/books/The_Krsna_Consciousness_Handbook-1970.pdf"
     },
     {
       "name": "The-Krsna-Consciousness Movement is the Genuine Vedic Way",
+      "image_link":  "https://i.imgur.com/itOxrBt.jpg",
       "link": "https://raw.githubusercontent.com/byciitp/books/master/books/The-Krsna-Consciousness_Movement_is_the_Genuine_Vedic_Way.pdf"
     },
     {
       "name": "The Nectar of Devotion-1970 ISKCON Press edition",
+      "image_link":  "https://i.imgur.com/L3Yt1nn.jpg",
       "link": "https://raw.githubusercontent.com/byciitp/books/master/books/The_Nectar_of_Devotion-1970_ISKCON_Press_edition.pdf"
     },
     {
       "name": "The Nectar of Instruction-Original 1976",
+      "image_link":  "https://i.imgur.com/eR738hz.jpg",
       "link": "https://raw.githubusercontent.com/byciitp/books/master/books/The_Nectar_of_Instruction-Original_1976.pdf"
     },
     {
       "name": "The Path of Perfection",
+      "image_link":  "https://i.imgur.com/ksrvVIz.jpg",
       "link": "https://raw.githubusercontent.com/byciitp/books/master/books/The_Path_of_Perfection.pdf"
     },
     {
       "name": "The Perfection of Yoga Original 1972",
+      "image_link":  "https://i.imgur.com/Wa50yXP.jpg",
       "link": "https://raw.githubusercontent.com/byciitp/books/master/books/The_Perfection_of_Yoga_Original_1972.pdf"
     },
     {
       "name": "The-Scientific-Basis-of-Krishna-Consciousness-Svarupa-Damodar-dasa-Ph.D.",
+      "image_link":  "https://i.imgur.com/zcHKxhZ.jpg",
       "link": "https://raw.githubusercontent.com/byciitp/books/master/books/The-Scientific-Basis-of-Krishna-Consciousness-Svarupa-Damodar-dasa-Ph.D.pdf"
     },
     {
       "name": "Transcendental Broadcast a Television Interview-1972",
+      "image_link":  "https://i.imgur.com/UcRuStK.jpg",
       "link": "https://raw.githubusercontent.com/byciitp/books/master/books/Transcendental_Broadcast_a_Television_Interview-1972.pdf"
     },
     {
       "name": "Vaishnava Etiquette",
+      "image_link":  "https://i.imgur.com/THJuPQL.jpg",
       "link": "https://raw.githubusercontent.com/byciitp/books/master/books/Vaishnava_Etiquette_Manual.pdf"
     },
     {
       "name": "TWO ESSAYS-Krishna the Reservoir of Pleasure-&-Who is Crazy",
+      "image_link":  "https://i.imgur.com/6iOm7RM.jpg",
       "link": "https://raw.githubusercontent.com/byciitp/books/master/books/TWO_ESSAYS-Krishna_the_Reservoir_of_Pleasure-&-Who_is_Crazy-book.pdf"
     }
   ]

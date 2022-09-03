@@ -27,6 +27,7 @@ permalink: /books/
 {% endfor %}
 
 {% for book in site.data.books.2tier %}
+
 	<div class="btn-group dropdown m-1">
 	  <button type="button" class="btn btn-secondary dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
 	    {{ book.name }}
@@ -39,17 +40,24 @@ permalink: /books/
 	</div>
 {% endfor %}
 
-<div class="row">
-	
-{% for book in site.data.books.1tier %}
-	<div class="col-2"></div>
-	<div class="col-8 text-center" >
-		<p><a class="" href="{{ book.link }}" target="_blank"> {{ book.name }}</a></p>
+<div class="scrolling-wrapper-flexbox">
+	{% for book in site.data.books.1tier %}
+	<div class="card" style="width: 200px;margin: 5px; ">
+		<img class="card-img-top" style="" src="{{ book.image_link }}" alt="BVC Book">
+		<div class="card-body">
+			<p class="card-title"> {{ book.name }}</p>
+			<a class="btn btn-primary" href="{{ book.link }}" target="_blank"> Read </a>
+		</div>
 	</div>
-	<div class="col-2"></div>
-{% endfor %}
+
+
+	{% endfor %}
 
 </div>
+
+
+</div>
+
 
 <script type="text/javascript" src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.3.1/js/bootstrap.bundle.min.js"></script>

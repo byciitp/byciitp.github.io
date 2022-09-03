@@ -8,6 +8,15 @@ html, body {
   width: 100%;
 }
 
+.scrolling-wrapper-flexbox {
+  display: flex;
+  flex-wrap: nowrap;
+  overflow-x: auto;
+
+  .card {
+    flex: 0 0 auto;
+  }
+}
 
 .loader_bg {
     position: fixed;
