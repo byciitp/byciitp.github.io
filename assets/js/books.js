@@ -15,3 +15,26 @@ $('.dropdown-menu a.dropdown-toggle').on('click', function(e) {
 });
 
 $("#title-large").css("display", "block");
+
+
+var modal = document.getElementById("myModal");
+
+// Get the image and insert it inside the modal - use its "alt" text as a caption
+var modalButtons = document.getElementsByClassName("modal_button");
+var modalContent = document.getElementById("book-modal-content");
+Array.from(modalButtons).forEach( btn => {
+  btn.addEventListener('click', event => {
+    console.log(btn.attributes.drive_link)
+    modal.style.display = "block";
+    modalContent.innerHTML = "<iframe src=" + btn.attributes.drive_link.nodeValue + " width=\"100%\" height=\"100%\" allow=\"autoplay\"></iframe>";
+    event.stopPropagation()
+  })
+})
+
+window.onclick = function(event) {
+  console.log(event.target.id)
+  if (event.target.id !== "book-modal-content" && modal.style.display !== "none") {
+    console.log(modal.style.display)
+    modal.style.display = "none";
+  }
+}
