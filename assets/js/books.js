@@ -27,6 +27,7 @@ Array.from(modalButtons).forEach( btn => {
     console.log(btn.attributes.drive_link)
     modal.style.display = "block";
     modalContent.innerHTML = "<iframe src=" + btn.attributes.drive_link.nodeValue + " width=\"100%\" height=\"100%\" allow=\"autoplay\"></iframe>";
+    history.pushState({ page: 1 }, "Book", "?modal");
     event.stopPropagation()
   })
 })
@@ -36,5 +37,14 @@ window.onclick = function(event) {
   if (event.target.id !== "book-modal-content" && modal.style.display !== "none") {
     console.log(modal.style.display)
     modal.style.display = "none";
+    history.back()
   }
 }
+
+window.onpopstate = (event) => {
+  if (modal.style.display !== "none") {
+    modal.style.display = "none";
+  }
+  console.log("state popped");
+};
+
