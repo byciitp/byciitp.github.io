@@ -2,6 +2,8 @@
 layout: header
 title: Bhaktivedanta Club IIT Patna
 location: home
+description: Bhaktivedanta Club IIT Patna
+keywords: bvc, Srila Prabhupada, Spirituality, Krishna, Gaudiya
 ---
 <!-- loader  -->
 <div class="loader_bg">

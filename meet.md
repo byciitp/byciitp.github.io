@@ -2,6 +2,8 @@
 layout: header
 title: Bhaktivedanta Samagam
 permalink: /meet/
+description: Bhaktivedanta Meeting
+keywords: bvc, meeting, zoom, spirituality, spiritual lecture
 ---
 
 <div class="row">
